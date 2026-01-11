@@ -2,21 +2,13 @@
   <img src="banner.gif" alt="Banner" />
 </p>
 
-<h1 align="center">Ricardo Medeiros</h1>
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-  <em>42 Lisboa Student</em>
-</p>
-
 <hr>
 
 <!-- INTRO -->
 <div align="center">
-  <h2>👋 Greetings</h2>
+  <h2>👋 Greetings, I'm Ricardo</h2>
   <p>
-    I’m <strong>Ricardo Medeiros</strong>, a Biomedical Engineer transitioning into
-    Software Development, currently studying at <strong>42 Lisboa</strong>.
+    I’m a <strong>Biomedical Engineer</strong> and a <strong>Software Development</strong>, currently studying at <strong>42 Lisboa</strong>.
   </p>
 </div>
 
