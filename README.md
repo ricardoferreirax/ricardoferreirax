@@ -68,35 +68,33 @@
 <hr>
 
 <!-- INTERESTS -->
-  <h2 align="center">🚀 Interests</h2>
-
-  <ul>
-    <li>Cybersecurity</li>
-    <li>Full Stack Development</li>
-    <li>AI & Algorithms</li>
-  </ul>
-
+<div align="center">
+  <h2>🚀 Interests</h2>
+  <p>
+     Web Development<br>
+     Cybersecurity<br>
+     AI & Algorithms
+  </p>
 </div>
 
 <hr>
 
 <!-- SKILLS -->
-  <h2 align="center">🛠 Skills & Technologies</h2>
-
+<div align="center">
+  <h2>🛠 Skills & Technologies</h2>
   <p>
     <strong>Languages</strong><br>
     C • C++ • Python
   </p>
-
   <p>
     <strong>Frontend</strong><br>
     HTML • CSS • JavaScript • React
   </p>
-
   <p>
     <strong>Tools</strong><br>
     Git • Linux • Bash • Makefile
   </p>
+</div>
 
 </div>
 
