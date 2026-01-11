@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="banner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Ricardo Medeiros</h1>
@@ -64,20 +64,6 @@
 </div>
 
 </div>
-
-<hr>
-
-<!-- INTERESTS -->
-<div align="center">
-  <h2>🚀 Interests</h2>
-  <p>
-     Web Development<br>
-     Cybersecurity<br>
-     AI & Algorithms
-  </p>
-</div>
-
-<hr>
 
 <!-- SKILLS -->
 <div align="center">
