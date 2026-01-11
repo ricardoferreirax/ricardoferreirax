@@ -9,10 +9,6 @@
   <em>42 Student</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ricardoferreirax&color=ff2d2d&style=flat-square" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -65,26 +61,6 @@ professional journey.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&bg_color=0d1117&title_color=ff2d2d&icon_color=ff2d2d&text_color=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&bg_color=0d1117&title_color=ff2d2d&text_color=ffffff&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEU_USERNAME&bg_color=0d1117&color=ffffff&line=ff2d2d&point=ff2d2d&hide_border=true" />
-</p>
-
----
-
 ## 🏫 42 Projects (Main)
 
 <p align="center">
@@ -97,21 +73,3 @@ professional journey.
 </p>
 
 ---
-
-## 🚀 Other Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TEU_USERNAME&repo=nome-do-repo&bg_color=0d1117&title_color=ff2d2d&text_color=ffffff&hide_border=true" />
-</p>
-
----
-
-## 👾 GitHub Activity — Pac-Man
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman.svg" />
-</p>
-
----
-
-
