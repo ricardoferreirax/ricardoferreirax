@@ -9,55 +9,64 @@
   <em>42 Student</em>
 </p>
 
+<div style="border:3px solid #ff0077; border-radius:16px; padding:2em; margin-bottom:2em;">
+  <h1 align="center">Greetings, I'm Ricardo Medeiros</h1>
+  <p align="center">
+    I'm a Biomedical Engineer and a software developer. I'm currently studying at 42 Lisboa.     
+  </p>
+</div>
+
+<div style="border:3px solid #0077ff; border-radius:16px; padding:2em; margin-bottom:2em;">
+  <h2>About Me</h2>
+  
+    I'm a curious person, and my journey into Sciences and Software Development began with a deep 
+    passion for math, logical thinking and science (which I've learnt how the things work).
+  
+    The curiosity naturally led me to pursue my goals, where I always strengthened my analytical mindset. 
+    Over time, my interest in programming grew even stronger, and I began to dive deeper into software 
+    development when I discovered 42 Lisboa. There, I’ve been building a solid and growing foundation in 
+    software engineering project-based learning.
+    
+    I work mainly with low-level programming, UNIX systems, and C/C++, while also gaining experience with 
+    higher-level languages and full stack development. 
+    Learning by doing, collaborating with peers, and constantly challenging myself have become central to 
+    my growth as a developer.
+    
+    I’m deeply motivated to keep learning new concepts and programming paradigms, and I enjoy immersing myself 
+    in challenges that push me beyond my comfort zone.
+    
+    Outside of coding, I enjoy watching anime, reading manga, and following football,
+    always supporting my childhood and lifelong club, SL Benfica. Music is another
+    constant presence in my life, with Queen being my favorite band. These interests fuel
+    my creativity, curiosity, and persistence — qualities that strongly shape the way I
+    approach engineering and problem-solving.
+
+    - 💼 LinkedIn:
+    - 📧 Email: ricardomedeirosx@gmail.com
+    - 🌐 Portfolio:
+
+---
+    
+  <ul>
+    <li>Interests</li>
+    <div>
+        ▸ Cybersecurity<br>
+        ▸ Full Stack<br>
+        ▸ AI & Algorithms<br>
+    </div>
+  </ul>
+</div>
+
 ---
 
-## 🧠 About Me
-
-Greetings! I’m Ricardo, a biomedical engineer on a journey toward becoming
-a software developer. I have a growing foundation in low-level programming and UNIX
-systems, along with experience in some high-level languages.
-
-I hold a degree in Biomedical Engineering, but I began to dive much deeper into
-programming when I discovered 42 Lisboa.
-
-At 42 Lisboa, I found an environment that challenged me to think critically and truly
-learn by doing. The school’s project-based approach pushed me to work autonomously,
-while also learning a great deal from my peers and friends. Through this experience,
-I’ve built a solid foundation in software engineering, working mainly with C/C++,
-Bash, and process management, while also exploring higher-level development and
-full stack technologies.
-
-I continue to learn every day, constantly refining my skills and expanding into new
-areas of software development. I’m highly motivated to keep learning new concepts,
-technologies, and programming paradigms, and I enjoy immersing myself in challenges
-that push me beyond my comfort zone and help me grow both professionally and
-personally.
-
-Outside of coding, I find inspiration in music — especially Queen and The Beatles —
-and enjoy spending time with animals, mostly cats (I have three, by the way).
-Curiosity, persistence, and love for learning guide both my personal and
-professional journey.
-
-- 💼 LinkedIn:
-- 📧 Email: ricardomedeirosx@gmail.com
-- 🌐 Portfolio:
-
----
-
-## 🛠 Technical Stack
-
-**Systems & Core**
-- C • C++ • Python • UNIX
-
-**Frontend**
-- HTML • CSS • JavaScript • React
-
-**Tools**
-- Git • Linux • Bash • Makefile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,linux,bash,git,react&theme=dark" />
-</p>
+<div style="border:3px solid #00ff77; border-radius:16px; padding:2em; margin-bottom:2em;">
+  <h2>Skills & Technologies</h2>
+  <p>
+    <strong>Languages: C, C++, Python</strong> <br>
+    <strong>Frontend: HTML, CSS, JavaScript, React</strong> <br>
+    <strong>Tools: GiT, Linux, Bash, Makefile</strong> <br>
+  </p>
+</div>
 
 ---
 
