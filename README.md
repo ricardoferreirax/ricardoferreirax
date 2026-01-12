@@ -91,3 +91,7 @@
 
 <hr>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff" style="max-width:700px; width:100%;"/>
+</p>
+
