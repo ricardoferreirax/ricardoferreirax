@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="gif1.gif" alt="Banner" style="max-width:200px; width:70%;"/>
-</p>
-
-<hr>
-
 <!-- INTRO -->
 <div align="center">
   <h2>👋 Greetings, I'm Ricardo</h2>
@@ -11,6 +5,11 @@
     I’m a <strong>Biomedical Engineer</strong> and a <strong>Software Development</strong>, currently studying at <strong>42 Lisboa</strong>.
   </p>
 </div>
+<hr>
+
+<p align="center">
+  <img src="gif1.gif" alt="Banner" style="max-width:200px; width:70%;"/>
+</p>
 
 </div>
 
