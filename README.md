@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner" />
+  <img src="banner.gif" alt="Banner" style="max-width:200px; width:70%;"/>
 </p>
 
 <hr>
@@ -17,7 +17,7 @@
 <hr>
 
 <!-- ABOUT ME -->
-  <h2 align="center">🧠 About Me</h2>
+  <h2 align="center">About Me</h2>
 
   <p>
     My journey into science and software development began with a deep passion for
@@ -59,22 +59,35 @@
 
 <!-- SKILLS -->
 <div align="center">
-  <h2>🛠 Skills & Technologies</h2>
-  <p>
-    <strong>Languages</strong><br>
-    C • C++ • Python
-  </p>
-  <p>
-    <strong>Frontend</strong><br>
-    HTML • CSS • JavaScript • React
-  </p>
-  <p>
-    <strong>Tools</strong><br>
-    Git • Linux • Bash • Makefile
-  </p>
+  <h2>Skills & Technologies</h2>
 </div>
 
-</div>
+<table align="center">
+  <tr>
+    <!-- LANGUAGES -->
+    <td align="center" width="33%">
+      <strong>Languages</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+    </td>
+    <!-- FRONTEND -->
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+    </td>
+    <!-- TOOLS -->
+    <td align="center" width="33%">
+      <strong>Tools</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
