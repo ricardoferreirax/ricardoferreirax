@@ -21,35 +21,29 @@
   <p>
     My journey into science and software development began with a deep passion for
     numbers, mathematics, and logical thinking. Curiosity has always driven me to
-    understand how things work — not just on the surface, but underneath.
+    understand how things work.
   </p>
 
   <p>
-    This mindset led me to pursue Biomedical Engineering, strengthening my analytical
-    approach to problem-solving. Over time, my interest in programming grew stronger,
+    This mindset led me to pursue Biomedical Engineering, strengthening my approach 
+    to problem-solving. Over time, my interest in programming grew stronger,
     and discovering <strong>42 Lisboa</strong> marked a turning point in my path.
+    At 42 Lisboa, I’ve been building a solid foundation in software engineering 
+    through project-based learning. Learning by doing, collaborating with peers, and
+    constantly challenging myself have become central to my growth as a developer and
+    as a person.
   </p>
 
   <p>
-    At 42 Lisboa, I’ve been building a solid and growing foundation in software
-    engineering through project-based learning. I work mainly with low-level
-    programming, UNIX systems, and C/C++, while also gaining experience with higher-
-    level languages and full stack development.
+    I work mainly with low-level programming, UNIX systems, and C/C++, while also
+    gaining experience with higher-level languages and full stack development.
   </p>
 
   <p>
-    Learning by doing, collaborating with peers, and constantly challenging myself
-    have become central to my growth as a developer. I’m deeply motivated to keep
-    learning new concepts and programming paradigms, always seeking challenges that
-    push me beyond my comfort zone.
-  </p>
-
-  <p>
-    Outside of coding, I enjoy watching anime, reading manga, and following football,
-    always supporting my childhood and lifelong club, <strong>SL Benfica</strong>.
+    Outside of coding, I enjoy watching anime, reading manga, playing videogames and 
+    following football,supporting my lifelong club, <strong>SL Benfica</strong>.
     Music is another constant presence in my life, with <strong>Queen</strong> being my
-    favorite band. These interests fuel my creativity, curiosity, and persistence —
-    qualities that shape the way I approach engineering and problem-solving.
+    favorite band. These interests fuel my creativity, curiosity, and persistence.
   </p>
 
 </div>
