@@ -8,7 +8,7 @@
 <hr>
 
 <p align="center">
-  <img src="gif1.gif" alt="Banner" style="max-width:200px; width:70%;"/>
+  <img src="gif1.gif" alt="Banner" style="max-width:200px; width:50%;"/>
 </p>
 
 </div>
