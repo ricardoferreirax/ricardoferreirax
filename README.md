@@ -64,7 +64,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
     </td>
-
     <!-- FRONTEND -->
     <td align="center" width="33%">
       <strong>Frontend</strong><br><br>
