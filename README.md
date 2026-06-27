@@ -22,6 +22,9 @@
     Curiosity has always driven me to learn and understand how things work. 
     A deep passion for mathematics and biology led me to pursue Biomedical Engineering, strengthening 
     my approach to problem-solving.
+  </p>
+
+  <p>
     At 42 Lisboa, I’ve been building a solid knowledge in software engineering through project-based 
     learning. Constantly challenging myself have become central to my growth as a developer and as a person.
   </p>
