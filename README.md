@@ -33,8 +33,8 @@
   </p>
 
   <p>
-    Outside of coding, I enjoy watching anime, reading manga, playing videogames and 
-    following football,supporting my lifelong club, <strong>SL Benfica</strong>.
+    I enjoy watching anime, reading manga, playing videogames and following football, supporting 
+    my lifelong club, <strong>SL Benfica</strong>.
     Music is another constant presence in my life, with <strong>Queen</strong> being my
     favorite band. These interests fuel my creativity, curiosity, and persistence.
   </p>
