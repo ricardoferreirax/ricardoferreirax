@@ -17,15 +17,10 @@
 
 <!-- ABOUT ME -->
   <h2 align="center">About Me</h2>
-
+  
   <p>
-    My journey into science and software development began with a deep passion for
-    numbers, mathematics, and logical thinking. Curiosity has always driven me to
-    understand how things work.
-  </p>
-
-  <p>
-    This mindset led me to pursue Biomedical Engineering, strengthening my approach 
+    Curiosity has always driven me to understand how things work. A deep passion for 
+    mathematics and biology led me to pursue Biomedical Engineering, strengthening my approach 
     to problem-solving. Over time, my interest in programming grew stronger,
     and discovering <strong>42 Lisboa</strong> marked a turning point in my path.
     At 42 Lisboa, I’ve been building a solid foundation in software engineering 
