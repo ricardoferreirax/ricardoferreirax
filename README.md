@@ -1,26 +1,17 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=230&section=header&text=Ricardo%20Medeiros&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=18"/>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=19&fontFamily=JetBrains%20Mono"/>
 
 <img src="gif1.gif" alt="Banner" width="560"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5200&pause=1600&center=true&vCenter=true&width=850&lines=Hello%2C+World!&color=FF2D2D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=6500&pause=1800&center=true&vCenter=true&width=900&lines=Hello%2C+World!+%7C+I'm+Ricardo+Medeiros&color=FF2D2D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5600&pause=1700&center=true&vCenter=true&width=850&lines=I'm+Ricardo+Medeiros&color=00AEEF"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=6000&pause=1800&center=true&vCenter=true&width=850&lines=I'm+a+Software+Developer+at+42+Lisboa&color=FF2D2D"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=7000&pause=2200&center=true&vCenter=true&width=850&lines=I+love+Math%2C+Biology%2C+Biomedics%2C+Chemistry%2C+Algorithms+and+Technology&color=00AEEF"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=7500&pause=2200&center=true&vCenter=true&width=950&lines=Software+Developer+at+42+Lisboa+%7C+Math+•+Biology+•+Biomedicine+•+Chemistry+•+Algorithms+•+Technology&color=00AEEF"/>
 
 </div>
 
@@ -47,7 +38,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="40%">
 
 <h3>⚡ Quick Facts</h3>
 
@@ -84,15 +75,19 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="60%">
 
-<h3>🎓 42 Lisboa</h3>
+<h3>🎓 42 Lisboa Identity</h3>
 
-<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="360"/>
+<a href="https://profile.intra.42.fr/users/rmedeiro">
+<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="470"/>
+</a>
 
 <br><br>
 
-<b>42 Login:</b> <code>rmedeiro</code>
+<a href="https://profile.intra.42.fr/users/rmedeiro">
+<img src="https://img.shields.io/badge/42%20Intra-rmedeiro-000000?style=for-the-badge&logo=42&logoColor=white"/>
+</a>
 
 </td>
 
@@ -159,81 +154,6 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <div align="center">
 
-<h2>🎓 42 Projects</h2>
-
-<table>
-<tr>
-<th>Project</th>
-<th>Main Topics</th>
-</tr>
-
-<tr>
-<td><code>libft</code></td>
-<td>C Library, memory, strings, linked lists</td>
-</tr>
-
-<tr>
-<td><code>ft_printf</code></td>
-<td>Variadic functions, parsing, formatting</td>
-</tr>
-
-<tr>
-<td><code>get_next_line</code></td>
-<td>File descriptors, buffers, static variables</td>
-</tr>
-
-<tr>
-<td><code>Born2beroot</code></td>
-<td>Linux administration, virtualization, security</td>
-</tr>
-
-<tr>
-<td><code>push_swap</code></td>
-<td>Sorting algorithms, stacks, optimization</td>
-</tr>
-
-<tr>
-<td><code>so_long</code></td>
-<td>2D graphics, maps, MiniLibX</td>
-</tr>
-
-<tr>
-<td><code>minishell</code></td>
-<td>Processes, pipes, signals, parsing</td>
-</tr>
-
-<tr>
-<td><code>philosophers</code></td>
-<td>Threads, mutexes, synchronization</td>
-</tr>
-
-<tr>
-<td><code>cub3D</code></td>
-<td>Raycasting, textures, maps, graphics</td>
-</tr>
-
-<tr>
-<td><code>NetPractice</code></td>
-<td>Networking, IP addressing, subnetting</td>
-</tr>
-
-<tr>
-<td><code>CPP Modules</code></td>
-<td>Object-oriented programming, inheritance, polymorphism</td>
-</tr>
-
-<tr>
-<td><code>Inception</code></td>
-<td>Docker, NGINX, MariaDB, WordPress, TLS</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 <h2>📈 Contribution Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
@@ -267,3 +187,4 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,ff2d2d&height=120&section=footer"/>
 
 </div>
+```
