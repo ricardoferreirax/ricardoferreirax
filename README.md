@@ -1,17 +1,16 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=19&fontFamily=JetBrains%20Mono"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=19"/>
 
 <img src="gif1.gif" alt="Banner" width="560"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=6500&pause=1800&center=true&vCenter=true&width=900&lines=Hello%2C+World!+%7C+I'm+Ricardo+Medeiros&color=FF2D2D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=7000&pause=2500&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+Medeiros+!&color=FF2D2D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=7500&pause=2200&center=true&vCenter=true&width=950&lines=Software+Developer+at+42+Lisboa+%7C+Math+•+Biology+•+Biomedicine+•+Chemistry+•+Algorithms+•+Technology&color=00AEEF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+a+Software+Developer+at+42+Lisboa;I+love+Math%2C+Science%2C+Biology%2C+Algorithms+and+Tech&color=00AEEF"/>
 
 </div>
 
@@ -33,14 +32,71 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <div align="center">
 
-<h2>⚡ Quick Facts & 42 Identity</h2>
+<h2>🎓 42 Lisboa Identity</h2>
 
 <table>
 <tr>
 
-<td align="center" width="40%">
+<td align="center" width="65%">
 
-<h3>⚡ Quick Facts</h3>
+<a href="https://profile.intra.42.fr/users/rmedeiro">
+<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="520"/>
+</a>
+
+<br><br>
+
+<a href="https://profile.intra.42.fr/users/rmedeiro">
+<img src="https://img.shields.io/badge/42%20Intra-rmedeiro-000000?style=for-the-badge&logo=42&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="35%">
+
+<h3>🚀 42 Focus</h3>
+
+<table>
+<tr>
+<td align="left"><b>Campus</b></td>
+<td align="left">42 Lisboa</td>
+</tr>
+<tr>
+<td align="left"><b>Login</b></td>
+<td align="left"><code>rmedeiro</code></td>
+</tr>
+<tr>
+<td align="left"><b>Core</b></td>
+<td align="left">C, UNIX, Algorithms</td>
+</tr>
+<tr>
+<td align="left"><b>Path</b></td>
+<td align="left">Systems & Software Engineering</td>
+</tr>
+<tr>
+<td align="left"><b>Mindset</b></td>
+<td align="left">Peer Learning, Debugging, Building</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>⚡ Quick Facts</h2>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🧠 Profile</h3>
 
 <table>
 <tr>
@@ -59,35 +115,32 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <td align="left"><b>🚀 Interests</b></td>
 <td align="left">Full Stack Development, Cybersecurity, Algorithms</td>
 </tr>
-<tr>
-<td align="left"><b>🎮 Hobbies</b></td>
-<td align="left">Anime, Manga, Videogames, Football, Music</td>
-</tr>
-<tr>
-<td align="left"><b>⚽ Club</b></td>
-<td align="left">SL Benfica</td>
-</tr>
-<tr>
-<td align="left"><b>🎵 Favorite Band</b></td>
-<td align="left">Queen</td>
-</tr>
 </table>
 
 </td>
 
-<td align="center" width="60%">
+<td align="center" width="50%">
 
-<h3>🎓 42 Lisboa Identity</h3>
+<h3>🎮 Personal</h3>
 
-<a href="https://profile.intra.42.fr/users/rmedeiro">
-<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="470"/>
-</a>
-
-<br><br>
-
-<a href="https://profile.intra.42.fr/users/rmedeiro">
-<img src="https://img.shields.io/badge/42%20Intra-rmedeiro-000000?style=for-the-badge&logo=42&logoColor=white"/>
-</a>
+<table>
+<tr>
+<td align="left"><b>🎮 Hobbies</b></td>
+<td align="left">Anime, Manga, Videogames</td>
+</tr>
+<tr>
+<td align="left"><b>⚽ Football</b></td>
+<td align="left">SL Benfica</td>
+</tr>
+<tr>
+<td align="left"><b>🎵 Music</b></td>
+<td align="left">Queen</td>
+</tr>
+<tr>
+<td align="left"><b>🔬 Science</b></td>
+<td align="left">Math, Biology, Biomedicine</td>
+</tr>
+</table>
 
 </td>
 
@@ -187,4 +240,3 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,ff2d2d&height=120&section=footer"/>
 
 </div>
-```
