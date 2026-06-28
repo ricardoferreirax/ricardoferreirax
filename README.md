@@ -104,37 +104,11 @@ Outside programming, I enjoy **anime**, **manga**, **videogames**, **football**,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardomedeirosx&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff3131&icon_color=ff3131" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomedeirosx&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff3131" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardomedeirosx&theme=radical&hide_border=true&background=00000000&ring=ff3131&fire=ff3131&currStreakLabel=ff3131" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomedeirosx&bg_color=00000000&color=ffffff&line=ff3131&point=ff3131&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ricardomedeirosx&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -150,20 +124,6 @@ Algorithms           ██████████████████░�
 Web Development      ████████████░░░░░░░░░
 Networking           ████████████░░░░░░░░░
 ```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardomedeirosx/ricardomedeirosx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardomedeirosx/ricardomedeirosx/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricardomedeirosx/ricardomedeirosx/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
