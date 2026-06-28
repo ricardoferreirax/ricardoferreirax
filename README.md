@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20•%20Software%20Developer%20•%2042%20Lisboa&descAlignY=60&descSize=18"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=750&lines=Biomedical+Engineer;Software+Developer;42+Lisboa+Student;Low-Level+Programming;C+%7C+C%2B%2B+%7C+Docker+%7C+UNIX"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=230&section=header&text=Ricardo%20Medeiros&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=18&fontFamily=Fira%20Code"/>
 
 <br><br>
 
 <img src="gif1.gif" alt="Banner" width="560"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=700&center=true&vCenter=true&width=850&lines=Hello%2C+World!;Welcome+to+my+GitHub+profile;42+Lisboa+student;Code.+Compile.+Debug.+Repeat.;C+%7C+C%2B%2B+%7C+Docker+%7C+UNIX;Building+things+from+the+ground+up&color=FF2D2D&multiline=false"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4600&pause=900&center=true&vCenter=true&width=850&lines=Biomedical+Engineer;Software+Developer;Systems+Programming;Linux+%26+UNIX;Algorithms+%26+Memory+Management;Docker+%26+DevOps&color=00AEEF"/>
 
 </div>
 
@@ -18,13 +22,11 @@
 <h2>👨‍💻 About Me</h2>
 </div>
 
-Hi, I’m **Ricardo Medeiros**.
-
 I’m a **Biomedical Engineer** and a **Software Developer** currently studying at **42 Lisboa**.
 
-My background in biomedical engineering gave me a strong analytical mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**.
+My background in biomedical engineering gave me a strong mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**.
 
-At 42 Lisboa, I’ve been building solid foundations in software engineering through project-based learning, peer evaluation, and constant practical challenges.
+At 42 Lisboa, I’ve been building solid knowledge in software engineering through project-based learning, peer evaluation, and constant practical challenges.
 
 I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **algorithms**, **memory management**, and **low-level programming**, while also exploring higher-level development.
 
@@ -36,94 +38,32 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <table>
 <tr>
-<td align="left">
-
-<b>🎓 Background</b>
-
-</td>
-<td align="left">
-
-Biomedical Engineering
-
-</td>
+<td align="left"><b>🎓 Background</b></td>
+<td align="left">Biomedical Engineering</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>💻 Programming</b>
-
-</td>
-<td align="left">
-
-42 Lisboa
-
-</td>
+<td align="left"><b>💻 Programming</b></td>
+<td align="left">42 Lisboa</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>🧠 Main Focus</b>
-
-</td>
-<td align="left">
-
-C, C++, UNIX, Linux, Docker
-
-</td>
+<td align="left"><b>🧠 Main Focus</b></td>
+<td align="left">C, C++, UNIX, Linux, Docker</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>🚀 Interests</b>
-
-</td>
-<td align="left">
-
-Full Stack Development, Cybersecurity, Algorithms
-
-</td>
+<td align="left"><b>🚀 Interests</b></td>
+<td align="left">Full Stack Development, Cybersecurity, Algorithms</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>🎮 Hobbies</b>
-
-</td>
-<td align="left">
-
-Anime, Manga, Videogames, Football, Music
-
-</td>
+<td align="left"><b>🎮 Hobbies</b></td>
+<td align="left">Anime, Manga, Videogames, Football, Music</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>⚽ Club</b>
-
-</td>
-<td align="left">
-
-SL Benfica
-
-</td>
+<td align="left"><b>⚽ Club</b></td>
+<td align="left">SL Benfica</td>
 </tr>
-
 <tr>
-<td align="left">
-
-<b>🎵 Favorite Band</b>
-
-</td>
-<td align="left">
-
-Queen
-
-</td>
+<td align="left"><b>🎵 Favorite Band</b></td>
+<td align="left">Queen</td>
 </tr>
 </table>
 
@@ -137,63 +77,47 @@ Queen
 
 <table>
 <tr>
-<td align="center" width="25%">
 
+<td align="center" width="25%">
 <h3>💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+<img height="48" src="https://skillicons.dev/icons?i=c,cpp,python&perline=3"/>
 
 <br><br>
 
-<b>C</b><br>
-<b>C++</b><br>
-<b>Python</b>
-
+<b>C</b> • <b>C++</b> • <b>Python</b>
 </td>
 
 <td align="center" width="25%">
-
 <h3>🌐 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img height="48" src="https://skillicons.dev/icons?i=html,css,js,react&perline=4"/>
 
 <br><br>
 
-<b>HTML5</b><br>
-<b>CSS3</b><br>
-<b>JavaScript</b><br>
-<b>React</b>
-
+<b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>React</b>
 </td>
 
 <td align="center" width="25%">
-
 <h3>⚙️ Backend & Database</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,nginx"/>
+<img height="48" src="https://skillicons.dev/icons?i=mysql,nginx&perline=2"/>
 
 <br><br>
 
-<b>MySQL</b><br>
-<b>NGINX</b>
-
+<b>MySQL</b> • <b>NGINX</b>
 </td>
 
 <td align="center" width="25%">
-
 <h3>🛠️ DevOps & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,git,bash,linux,vscode"/>
+<img height="48" src="https://skillicons.dev/icons?i=docker,git,bash,linux,vscode&perline=5"/>
 
 <br><br>
 
-<b>Docker</b><br>
-<b>Git</b><br>
-<b>Bash</b><br>
-<b>Linux</b><br>
-<b>VS Code</b>
-
+<b>Docker</b> • <b>Git</b> • <b>Bash</b> • <b>Linux</b> • <b>VS Code</b>
 </td>
+
 </tr>
 </table>
 
@@ -280,7 +204,7 @@ Queen
 
 <h2>📈 Contribution Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomedeirosx&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -294,7 +218,7 @@ Queen
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ricardomedeirosx">
+<a href="https://github.com/ricardoferreirax">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
