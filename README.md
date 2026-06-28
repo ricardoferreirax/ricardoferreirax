@@ -1,146 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=220&section=header&text=Ricardo%20Medeiros&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20%C2%B7%20Software%20Developer%20%C2%B7%2042%20Lisboa&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineer%20•%20Software%20Developer%20•%2042%20Lisboa&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Biomedical+Engineer;Software+Developer;42+Lisboa+Student;Low-Level+Programming+Enthusiast;C+%7C+C%2B%2B+%7C+Linux+%7C+Docker" />
+<br>
 
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Biomedical+Engineer;Software+Developer;42+Lisboa+Student;Linux+%26+Low-Level+Programming;C+%7C+C%2B%2B+%7C+Docker+%7C+UNIX"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ricardomedeirosx&label=Profile%20Views&color=red&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ricardomedeirosx?label=Followers&style=for-the-badge&color=red" />
-<img src="https://img.shields.io/github/stars/ricardomedeirosx?label=Stars&style=for-the-badge&color=red" />
+<img src="gif1.gif" width="560"/>
+
+<br><br>
 
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 Hi, I’m **Ricardo Medeiros**.
 
 I’m a **Biomedical Engineer** and a **Software Developer** currently studying at **42 Lisboa**.
 
-My background in biomedical engineering gave me a strong analytical mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**. At 42 Lisboa, I’ve been building solid foundations in software engineering through project-based learning, peer evaluation, and constant practical challenges.
+My background in biomedical engineering gave me a strong analytical mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**. 
 
-I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **algorithms**, **memory management**, and **low-level programming**, while also exploring higher-level development, web technologies, backend tools, and DevOps.
+At 42 Lisboa, I’ve been building solid foundations in software engineering through project-based learning, peer evaluation, and constant practical challenges.
 
-Outside programming, I enjoy **anime**, **manga**, **videogames**, **football**, and music. I proudly support **SL Benfica**, and **Queen** is my favorite band.
+I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **Algorithms**, **Memory Management**, and **Low-Level Programming**, while also exploring higher-Level Development.
 
 ---
 
 ## ⚡ Quick Facts
 
 ```text
-🧬 Background     Biomedical Engineering
-🎓 School         42 Lisboa
+🎓 Background     Biomedical Engineering
+🎓 Programming    42 Lisboa
 💻 Main Focus     C, C++, UNIX, Linux, Docker
-🧠 Interests      Systems programming, algorithms, backend, DevOps
-🎮 Hobbies        Anime, manga, videogames, football, music
+🧠 Interests      Full Stack Developer, Cybersecurity, Algorithms
+🎮 Hobbies        Anime, Manga, Videogames, Football, Music
 ⚽ Club           SL Benfica
 🎵 Favorite Band  Queen
 ```
-
 ---
 
-## 🛠️ Skills & Technologies
+# 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css"/>
 
-<br>
+<br><br>
 
-### ⚙️ Systems & Tools
+### Systems & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,vim" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,vscode"/>
 
-<br>
+<br><br>
 
-### 🌐 Web & Backend
+### Backend & DevOps
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,nginx,mysql" />
-
-<br>
-
-### 🧰 Also Working With
-
-<img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" />
-<img src="https://img.shields.io/badge/Valgrind-3B3B3B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GDB-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql,react"/>
 
 </div>
 
 ---
 
-## 🎓 42 Lisboa Projects
+# 🎓 42 Projects
 
-<div align="center">
-
-| Project | Main Concepts |
-|---|---|
-| `libft` | C library, memory, strings, linked lists |
-| `ft_printf` | variadic functions, parsing, formatting |
-| `get_next_line` | file descriptors, buffers, static variables |
-| `Born2beroot` | Linux, virtualization, users, security |
-| `push_swap` | sorting algorithms, stacks, optimization |
-| `so_long` | 2D graphics, maps, MiniLibX |
-| `minishell` | processes, pipes, signals, parsing |
-| `philosophers` | threads, mutexes, synchronization |
-| `cub3D` | raycasting, textures, maps, graphics |
-| `NetPractice` | networking, IP addressing, subnetting |
-| `CPP Modules` | OOP, inheritance, polymorphism, templates |
-| `Inception` | Docker, NGINX, MariaDB, WordPress, TLS |
-
-</div>
+| Project | Main Topics |
+|---------|-------------|
+| libft | C Library |
+| ft_printf | Variadic Functions |
+| get_next_line | File Descriptors |
+| Born2beroot | Linux Administration |
+| push_swap | Algorithms |
+| so_long | MiniLibX |
+| minishell | Processes & Pipes |
+| philosophers | Threads & Mutexes |
+| cub3D | Raycasting |
+| NetPractice | Networking |
+| CPP Modules | Object-Oriented Programming |
+| Inception | Docker & DevOps |
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomedeirosx&bg_color=00000000&color=ffffff&line=ff3131&point=ff3131&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomedeirosx&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
+</p>
 
 ---
 
-## 🚀 Currently Learning
-
-```text
-C / C++              ████████████████████░
-UNIX Systems         ███████████████████░░
-Docker / DevOps      █████████████████░░░░
-Algorithms           ██████████████████░░░
-Web Development      ████████████░░░░░░░░░
-Networking           ████████████░░░░░░░░░
-```
-
----
-
-## 📫 Connect With Me
+# 📫 Contact
 
 <div align="center">
-
-<a href="https://github.com/ricardomedeirosx">
-  <img src="https://img.shields.io/badge/GitHub-ricardomedeirosx-181717?style=for-the-badge&logo=github" />
-</a>
 
 <a href="mailto:ricardomedeirosx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://github.com/ricardomedeirosx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -149,6 +115,6 @@ Networking           ████████████░░░░░░░�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111,ff2d2d&height=120&section=footer"/>
 
 </div>
