@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=230&section=header&text=Ricardo%20Medeiros&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=18&fontFamily=Fira%20Code"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=230&section=header&text=Ricardo%20Medeiros&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=18"/>
 
 <br><br>
 
@@ -8,11 +8,19 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4200&pause=700&center=true&vCenter=true&width=850&lines=Hello%2C+World!;Welcome+to+my+GitHub+profile;42+Lisboa+student;Code.+Compile.+Debug.+Repeat.;C+%7C+C%2B%2B+%7C+Docker+%7C+UNIX;Building+things+from+the+ground+up&color=FF2D2D&multiline=false"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5200&pause=1600&center=true&vCenter=true&width=850&lines=Hello%2C+World!&color=FF2D2D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4600&pause=900&center=true&vCenter=true&width=850&lines=Biomedical+Engineer;Software+Developer;Systems+Programming;Linux+%26+UNIX;Algorithms+%26+Memory+Management;Docker+%26+DevOps&color=00AEEF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=5600&pause=1700&center=true&vCenter=true&width=850&lines=I'm+Ricardo+Medeiros&color=00AEEF"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=6000&pause=1800&center=true&vCenter=true&width=850&lines=I'm+a+Software+Developer+at+42+Lisboa&color=FF2D2D"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=7000&pause=2200&center=true&vCenter=true&width=850&lines=I+love+Math%2C+Biology%2C+Biomedics%2C+Chemistry%2C+Algorithms+and+Technology&color=00AEEF"/>
 
 </div>
 
@@ -34,7 +42,14 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <div align="center">
 
-<h2>⚡ Quick Facts</h2>
+<h2>⚡ Quick Facts & 42 Identity</h2>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h3>⚡ Quick Facts</h3>
 
 <table>
 <tr>
@@ -64,6 +79,23 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <tr>
 <td align="left"><b>🎵 Favorite Band</b></td>
 <td align="left">Queen</td>
+</tr>
+</table>
+
+</td>
+
+<td align="center" width="50%">
+
+<h3>🎓 42 Lisboa</h3>
+
+<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="360"/>
+
+<br><br>
+
+<b>42 Login:</b> <code>rmedeiro</code>
+
+</td>
+
 </tr>
 </table>
 
