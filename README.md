@@ -25,25 +25,31 @@ At 42 Lisboa, I’ve been building a solid knowledge in software development thr
 I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **algorithms**, **memory management**, and **low-level programming**, while also exploring higher-level development.
 
 ---
-
 <div align="center">
 
-<h2>🎓 42 Lisboa Identity</h2>
+<h2>🎓 42 Lisboa Journey</h2>
 
 <table>
 <tr>
 
-<td align="center" width="65%">
+<td align="center" width="60%">
 
 <a href="https://profile.intra.42.fr/users/rmedeiro">
-<img src="https://badge.mediaplus.ma/black/rmedeiro" alt="rmedeiro's 42 stats" width="520"/>
+<img
+    src="https://badge.mediaplus.ma/black/rmedeiro"
+    alt="rmedeiro's 42 Badge"
+    width="500"
+/>
 </a>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/42-Lisboa-000000?style=for-the-badge&logo=42&logoColor=white"/>
+<img src="https://img.shields.io/badge/Common%20Core-In%20Progress-0A66C2?style=for-the-badge"/>
+
 </td>
 
-<td align="center" width="35%">
+<td align="center" width="40%">
 
 <table>
 
@@ -58,7 +64,12 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 </tr>
 
 <tr>
-<td align="left"><b>🚀 Kick Off</b></td>
+<td align="left"><b>🎯 Pool</b></td>
+<td align="left">January 2025</td>
+</tr>
+
+<tr>
+<td align="left"><b>🚀 Kick-Off</b></td>
 <td align="left">April 2025</td>
 </tr>
 
@@ -68,13 +79,13 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 </tr>
 
 <tr>
-<td align="left"><b>📚 Projects</b></td>
-<td align="left">16 / 24 Completed</td>
+<td align="left"><b>✅ Projects Completed</b></td>
+<td align="left">16 / 24</td>
 </tr>
 
 <tr>
-<td align="left"><b>📚 Exams</b></td>
-<td align="left">4 / 6 Completed</td>
+<td align="left"><b>📝 Exams Passed</b></td>
+<td align="left">4 / 6</td>
 </tr>
 
 <tr>
@@ -83,13 +94,18 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 </tr>
 
 <tr>
-<td align="left"><b>📚 Currently Working</b></td>
-<td align="left">Docker • Containers • C++ </td>
+<td align="left"><b>🎯 Current Focus</b></td>
+<td align="left">Docker • Containers • C++</td>
 </tr>
 
 <tr>
-<td align="left"><b>💻 Main Languages</b></td>
+<td align="left"><b>💻 Languages</b></td>
 <td align="left">C • C++ • Python</td>
+</tr>
+
+<tr>
+<td align="left"><b>🚀 Goal</b></td>
+<td align="left">Software Engineering</td>
 </tr>
 
 </table>
@@ -219,15 +235,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>React</b>
 </td>
 
-<td align="center" width="25%">
-<h3>⚙️ Backend & Database</h3>
 
-<img height="48" src="https://skillicons.dev/icons?i=mysql,nginx&perline=2"/>
-
-<br><br>
-
-<b>MySQL</b> • <b>NGINX</b>
-</td>
 
 <td align="center" width="25%">
 <h3>🛠️ DevOps & Tools</h3>
