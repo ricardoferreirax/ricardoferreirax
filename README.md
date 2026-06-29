@@ -6,11 +6,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=7000&pause=2500&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+Medeiros+!&color=FF2D2D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=7000&pause=2500&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+:)&color=FF2D2D"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+a+Software+Developer+at+42+Lisboa;Welcome+To+My+Portofolio+Page+:)&color=00AEEF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+A+Software+Developer+At+42+Lisboa;Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:)&color=00AEEF"/>
 
 </div>
 
