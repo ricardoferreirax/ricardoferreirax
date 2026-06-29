@@ -38,7 +38,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <img
     src="https://badge.mediaplus.ma/black/rmedeiro"
     alt="rmedeiro's 42 Badge"
-    width="500"
+    width="600"
 />
 </a>
 
@@ -46,17 +46,23 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="left" width="42%">
 
-<img src="https://img.shields.io/badge/Campus-42%20Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Login-rmedeiro-1F6FEB?style=for-the-badge&logo=github"><br>
-<img src="https://img.shields.io/badge/Pool-January%202025-8957E5?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Kick--Off-April%202025-238636?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Current%20Rank-Milestone%205-00599C?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Projects%20Completed-16%20%2F%2024-2EA44F?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Exams%20Passed-4%20%2F%206-1F6FEB?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Pace-Pace%2018-F39C12?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Current%20Focus-Docker%20•%20Containers%20•%20C%2B%2B-30363D?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Languages-C%20•%20C%2B%2B%20•%20Python-0A192F?style=for-the-badge"><br>
-<img src="https://img.shields.io/badge/Goal-Software%20Engineering-8A2BE2?style=for-the-badge">
+<div><img src="https://img.shields.io/badge/🏫_Campus-42_Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"></div>
+
+<div><img src="https://img.shields.io/badge/👤_Login-rmedeiro-2563EB?style=for-the-badge&logo=github"></div>
+
+<div><img src="https://img.shields.io/badge/🎯_Pool-January_2025-7C3AED?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/🚀_Kick--Off-April_2025-059669?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/📈_Current_Rank-Milestone_5-DC2626?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/✅_Projects_Completed-16_of_24-16A34A?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/📝_Exams_Passed-4_of_6-0284C7?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/⚡_Learning_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
+
+<div><img src="https://img.shields.io/badge/🎯_Current_Focus-Docker_•_C++-475569?style=for-the-badge"></div>
 
 </td>
 
