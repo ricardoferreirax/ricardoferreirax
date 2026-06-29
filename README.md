@@ -217,32 +217,32 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <tr>
 
 <td align="center" width="25%">
-<a href="https://github.com/ricardoferreirax/libft">
-<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/libft.png" width="220">
+<a href="https://github.com/ricardoferreirax/LIBFT">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/libft.png" width="220">
 </a><br>
 <b>Libft</b><br>
 <sub>Custom C Standard Library</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="https://github.com/ricardoferreirax/ft_printf">
-<img src="[assets/](https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/ft_printf.png" width="220">
+<a href="https://github.com/ricardoferreirax/FT_PRINTF">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/printf.png" width="220">
 </a><br>
 <b>ft_printf</b><br>
 <sub>Formatted Output</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="https://github.com/ricardoferreirax/get_next_line">
-<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/get_next_line.png" width="220">
+<a href="https://github.com/ricardoferreirax/GET_NEXT_LINE">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/get_next_line.png" width="220">
 </a><br>
 <b>get_next_line</b><br>
 <sub>File Reading</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="https://github.com/ricardoferreirax/born2beroot">
-<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/born2beroot.png" width="220">
+<a href="https://github.com/ricardoferreirax/BORN_2_BE_ROOT">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/born2beroot.png" width="220">
 </a><br>
 <b>Born2beroot</b><br>
 <sub>System Administration</sub>
@@ -253,32 +253,32 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <tr>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/push_swap">
-<img src="assets/projects/push_swap.png" width="220">
+<a href="https://github.com/ricardoferreirax/PUSH_SWAP">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/push_swap.png" width="220">
 </a><br>
 <b>Push_swap</b><br>
 <sub>Sorting Algorithms</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/pipex">
-<img src="assets/projects/pipex.png" width="220">
+<a href="https://github.com/ricardoferreirax/PIPEX">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/pipex.png" width="220">
 </a><br>
 <b>Pipex</b><br>
 <sub>Pipes & Processes</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/fract-ol">
-<img src="assets/projects/fract-ol.png" width="220">
+<a href="https://github.com/ricardoferreirax/FRACT-OL">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/fract-ol.png" width="220">
 </a><br>
 <b>Fract-ol</b><br>
 <sub>Fractal Rendering</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/philosophers">
-<img src="assets/projects/philosophers.png" width="220">
+<a href="https://github.com/ricardoferreirax/PHILOSOPHERS">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/philosophers.png" width="220">
 </a><br>
 <b>Philosophers</b><br>
 <sub>Threads & Mutexes</sub>
@@ -289,32 +289,32 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <tr>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/minishell">
-<img src="assets/projects/minishell.png" width="220">
+<a href="https://github.com/ricardoferreirax/MINISHELL">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/minishell.png" width="220">
 </a><br>
 <b>Minishell</b><br>
 <sub>Unix Shell</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/cub3d">
-<img src="assets/projects/cub3d.png" width="220">
+<a href="https://github.com/ricardoferreirax/CUB3D">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cub3d.png" width="220">
 </a><br>
 <b>cub3D</b><br>
 <sub>Raycasting Engine</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/netpractice">
-<img src="assets/projects/netpractice.png" width="220">
+<a href="https://github.com/ricardoferreirax/NETPRATICE">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/netpractice.png" width="220">
 </a><br>
 <b>NetPractice</b><br>
 <sub>Networking</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/cpp-modules-00-04">
-<img src="assets/projects/cpp00-04.png" width="220">
+<a href="https://github.com/ricardoferreirax/CPP_MODULES">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cpp00-04.png" width="220">
 </a><br>
 <b>CPP Modules 00–04</b><br>
 <sub>OOP Fundamentals</sub>
@@ -325,16 +325,16 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <tr>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/inception">
-<img src="assets/projects/inception.png" width="220">
+<a href="https://github.com/ricardoferreirax/INCEPTION">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/inception.png" width="220">
 </a><br>
 <b>Inception</b><br>
 <sub>Docker Infrastructure</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/cpp-modules-05-09">
-<img src="assets/projects/cpp05-09.png" width="220">
+<a href="https://github.com/ricardoferreirax/CPP_MODULES">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cpp05-09.png" width="220">
 </a><br>
 <b>CPP Modules 05–09</b><br>
 <sub>Advanced C++</sub>
@@ -342,7 +342,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/ft_irc">
-<img src="assets/projects/ft_irc.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_irc.png" width="220">
 </a><br>
 <b>ft_irc</b><br>
 <sub>IRC Server</sub>
@@ -350,7 +350,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/ft_transcendence">
-<img src="assets/projects/ft_transcendence.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_transcendence.png" width="220">
 </a><br>
 <b>ft_transcendence</b><br>
 <sub>Full-Stack Web Application</sub>
