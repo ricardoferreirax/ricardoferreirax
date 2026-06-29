@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20•%2042%20Lisboa&descAlignY=58&descSize=19"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20&descAlignY=58&descSize=19"/>
 
 <img src="gif1.gif" alt="Banner" width="560"/>
 
@@ -130,7 +130,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <tr>
 <td align="left"><b>⚙️ Focusing</b></td>
-<td align="left">C • C++ • Python • Docker</td>
+<td align="left">C++ • Frontend • Python • Docker</td>
 </tr>
 
 <tr>
@@ -173,14 +173,13 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <tr>
 <td align="left"><b>🔬 Favourite Fields</b></td>
-<td align="left">Math • Biology • Physics • Technology</td>
+<td align="left">Math • Biology • Physics • Tech</td>
 </tr>
 
 <tr>
 <td align="left"><b>☕ Mindset</b></td>
 <td align="left">Curiosity • Learn by Doing</td>
 </tr>
-
 
 <tr>
 <td align="left"><b>📍 Localization</b></td>
