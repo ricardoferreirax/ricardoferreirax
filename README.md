@@ -46,23 +46,23 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="left" width="42%">
 
-<div><img src="https://img.shields.io/badge/🏫_Campus-42_Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"></div>
+<div><img src="https://img.shields.io/badge/🏫_42 Campus-42_Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"></div>
 
-<div><img src="https://img.shields.io/badge/👤_Login-rmedeiro-2563EB?style=for-the-badge&logo=github"></div>
+<div><img src="https://img.shields.io/badge/👤_My Login-rmedeiro-2563EB?style=for-the-badge&logo=github"></div>
 
-<div><img src="https://img.shields.io/badge/🎯_Pool-January_2025-7C3AED?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/🎯_Pool Year-January_2025-7C3AED?style=for-the-badge"></div>
 
-<div><img src="https://img.shields.io/badge/🚀_Kick--Off-April_2025-059669?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/🚀_Kick--Off Year-April_2025-059669?style=for-the-badge"></div>
 
 <div><img src="https://img.shields.io/badge/📈_Current_Rank-Milestone_5-DC2626?style=for-the-badge"></div>
 
 <div><img src="https://img.shields.io/badge/✅_Projects_Completed-16_of_24-16A34A?style=for-the-badge"></div>
 
-<div><img src="https://img.shields.io/badge/📝_Exams_Passed-4_of_6-0284C7?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/📝_Exams_Completed-4_of_6-0284C7?style=for-the-badge"></div>
 
-<div><img src="https://img.shields.io/badge/⚡_Learning_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
-<div><img src="https://img.shields.io/badge/🎯_Current_Focus-Docker_•_C++-475569?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/🎯_Focus-Docker_•_C++_•_Fronted-475569?style=for-the-badge"></div>
 
 </td>
 
