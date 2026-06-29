@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+a+Software+Developer+at+42+Lisboa;I+love+Math%2C+Science%2C+Biology%2C+Algorithms+and+Tech&color=00AEEF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+a+Software+Developer+at+42+Lisboa;Welcome+To+My+Portofolio+Page+:)&color=00AEEF"/>
 
 </div>
 
@@ -22,9 +22,9 @@
 
 I’m a **Biomedical Engineer** and a **Software Developer** currently studying at **42 Lisboa**.
 
-My background in biomedical engineering gave me a strong mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**.
+My curiosity and background gave me a strong mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**.
 
-At 42 Lisboa, I’ve been building solid knowledge in software engineering through project-based learning, peer evaluation, and constant practical challenges.
+At 42 Lisboa, I’ve been building a solid knowledge in software development through project-based learning, peer evaluation, and constant practical challenges.
 
 I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **algorithms**, **memory management**, and **low-level programming**, while also exploring higher-level development.
 
@@ -45,37 +45,57 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <br><br>
 
-<a href="https://profile.intra.42.fr/users/rmedeiro">
-<img src="https://img.shields.io/badge/42%20Intra-rmedeiro-000000?style=for-the-badge&logo=42&logoColor=white"/>
-</a>
-
 </td>
 
 <td align="center" width="35%">
 
-<h3>🚀 42 Focus</h3>
-
 <table>
+
 <tr>
-<td align="left"><b>Campus</b></td>
+<td align="left"><b>🏫 Campus</b></td>
 <td align="left">42 Lisboa</td>
 </tr>
+
 <tr>
-<td align="left"><b>Login</b></td>
+<td align="left"><b>👤 Login</b></td>
 <td align="left"><code>rmedeiro</code></td>
 </tr>
+
 <tr>
-<td align="left"><b>Core</b></td>
-<td align="left">C, UNIX, Algorithms</td>
+<td align="left"><b>🚀 Kick Off</b></td>
+<td align="left">April 2025</td>
 </tr>
+
 <tr>
-<td align="left"><b>Path</b></td>
-<td align="left">Systems & Software Engineering</td>
+<td align="left"><b>📈 Current Rank</b></td>
+<td align="left">Milestone 5</td>
 </tr>
+
 <tr>
-<td align="left"><b>Mindset</b></td>
-<td align="left">Peer Learning, Debugging, Building</td>
+<td align="left"><b>📚 Projects</b></td>
+<td align="left">16 / 24 Completed</td>
 </tr>
+
+<tr>
+<td align="left"><b>📚 Exams</b></td>
+<td align="left">4 / 6 Completed</td>
+</tr>
+
+<tr>
+<td align="left"><b>⚡ Pace</b></td>
+<td align="left">Pace 18</td>
+</tr>
+
+<tr>
+<td align="left"><b>📚 Currently Working</b></td>
+<td align="left">Docker • Containers • C++ </td>
+</tr>
+
+<tr>
+<td align="left"><b>💻 Main Languages</b></td>
+<td align="left">C • C++ • Python</td>
+</tr>
+
 </table>
 
 </td>
@@ -86,7 +106,6 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 </div>
 
 ---
-
 <div align="center">
 
 <h2>⚡ Quick Facts</h2>
@@ -103,17 +122,30 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <td align="left"><b>🎓 Background</b></td>
 <td align="left">Biomedical Engineering</td>
 </tr>
+
 <tr>
-<td align="left"><b>💻 Programming</b></td>
+<td align="left"><b>🎓 Programming</b></td>
 <td align="left">42 Lisboa</td>
 </tr>
+
 <tr>
-<td align="left"><b>🧠 Main Focus</b></td>
-<td align="left">C, C++, UNIX, Linux, Docker</td>
+<td align="left"><b>⚙️ Focusing</b></td>
+<td align="left">C • C++ • Python • Docker</td>
 </tr>
+
+<tr>
+<td align="left"><b>📖 Currently Learning</b></td>
+<td align="left">C++ • Containers • Databases</td>
+</tr>
+
 <tr>
 <td align="left"><b>🚀 Interests</b></td>
-<td align="left">Full Stack Development, Cybersecurity, Algorithms</td>
+<td align="left">Web Dev • Cybersecurity • AI</td>
+</tr>
+
+<tr>
+<td align="left"><b>🌍 Languages</b></td>
+<td align="left">Portuguese • English • Spanish</td>
 </tr>
 </table>
 
@@ -126,19 +158,33 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <table>
 <tr>
 <td align="left"><b>🎮 Hobbies</b></td>
-<td align="left">Anime, Manga, Videogames</td>
+<td align="left">Anime • Manga • Gaming</td>
 </tr>
+
 <tr>
 <td align="left"><b>⚽ Football</b></td>
 <td align="left">SL Benfica</td>
 </tr>
+
 <tr>
 <td align="left"><b>🎵 Music</b></td>
 <td align="left">Queen</td>
 </tr>
+
 <tr>
-<td align="left"><b>🔬 Science</b></td>
-<td align="left">Math, Biology, Biomedicine</td>
+<td align="left"><b>🔬 Favourite Fields</b></td>
+<td align="left">Math • Biology • Physics • Technology</td>
+</tr>
+
+<tr>
+<td align="left"><b>☕ Mindset</b></td>
+<td align="left">Curiosity • Learn by Doing</td>
+</tr>
+
+
+<tr>
+<td align="left"><b>📍 Localization</b></td>
+<td align="left">Almada, Portugal</td>
 </tr>
 </table>
 
