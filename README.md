@@ -218,7 +218,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/libft">
-<img src="assets/projects/libft.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/libft.png" width="220">
 </a><br>
 <b>Libft</b><br>
 <sub>Custom C Standard Library</sub>
@@ -226,7 +226,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/ft_printf">
-<img src="assets/projects/ft_printf.png" width="220">
+<img src="[assets/](https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/ft_printf.png" width="220">
 </a><br>
 <b>ft_printf</b><br>
 <sub>Formatted Output</sub>
@@ -234,7 +234,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/get_next_line">
-<img src="assets/projects/get_next_line.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/get_next_line.png" width="220">
 </a><br>
 <b>get_next_line</b><br>
 <sub>File Reading</sub>
@@ -242,7 +242,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/born2beroot">
-<img src="assets/projects/born2beroot.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferirax/main/born2beroot.png" width="220">
 </a><br>
 <b>Born2beroot</b><br>
 <sub>System Administration</sub>
