@@ -32,7 +32,7 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 <table>
 <tr>
 
-<td align="center" width="60%">
+<td align="center" width="58%">
 
 <a href="https://profile.intra.42.fr/users/rmedeiro">
 <img
@@ -42,73 +42,21 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 />
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/42-Lisboa-000000?style=for-the-badge&logo=42&logoColor=white"/>
-<img src="https://img.shields.io/badge/Common%20Core-In%20Progress-0A66C2?style=for-the-badge"/>
-
 </td>
 
-<td align="center" width="40%">
+<td align="left" width="42%">
 
-<table>
-
-<tr>
-<td align="left"><b>🏫 Campus</b></td>
-<td align="left">42 Lisboa</td>
-</tr>
-
-<tr>
-<td align="left"><b>👤 Login</b></td>
-<td align="left"><code>rmedeiro</code></td>
-</tr>
-
-<tr>
-<td align="left"><b>🎯 Pool</b></td>
-<td align="left">January 2025</td>
-</tr>
-
-<tr>
-<td align="left"><b>🚀 Kick-Off</b></td>
-<td align="left">April 2025</td>
-</tr>
-
-<tr>
-<td align="left"><b>📈 Current Rank</b></td>
-<td align="left">Milestone 5</td>
-</tr>
-
-<tr>
-<td align="left"><b>✅ Projects Completed</b></td>
-<td align="left">16 / 24</td>
-</tr>
-
-<tr>
-<td align="left"><b>📝 Exams Passed</b></td>
-<td align="left">4 / 6</td>
-</tr>
-
-<tr>
-<td align="left"><b>⚡ Pace</b></td>
-<td align="left">Pace 18</td>
-</tr>
-
-<tr>
-<td align="left"><b>🎯 Current Focus</b></td>
-<td align="left">Docker • Containers • C++</td>
-</tr>
-
-<tr>
-<td align="left"><b>💻 Languages</b></td>
-<td align="left">C • C++ • Python</td>
-</tr>
-
-<tr>
-<td align="left"><b>🚀 Goal</b></td>
-<td align="left">Software Engineering</td>
-</tr>
-
-</table>
+<img src="https://img.shields.io/badge/Campus-42%20Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Login-rmedeiro-1F6FEB?style=for-the-badge&logo=github"><br>
+<img src="https://img.shields.io/badge/Pool-January%202025-8957E5?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Kick--Off-April%202025-238636?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Current%20Rank-Milestone%205-00599C?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Projects%20Completed-16%20%2F%2024-2EA44F?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Exams%20Passed-4%20%2F%206-1F6FEB?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Pace-Pace%2018-F39C12?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Current%20Focus-Docker%20•%20Containers%20•%20C%2B%2B-30363D?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Languages-C%20•%20C%2B%2B%20•%20Python-0A192F?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/Goal-Software%20Engineering-8A2BE2?style=for-the-badge">
 
 </td>
 
