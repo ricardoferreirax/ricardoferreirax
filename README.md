@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Ricardo%20Medeiros&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20&descAlignY=58&descSize=19"/>
 
-<img src="gif1.gif" alt="Banner" width="560"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=7000&pause=2500&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+:)&color=FF2D2D"/>
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=6000&pause=2800&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+:)&color=FF2D2D"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+A+Software+Developer+At+42+Lisboa;Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:)&color=00AEEF"/>
+
+<img src="gif1.gif" alt="Banner" width="560"/>
 
 </div>
 
