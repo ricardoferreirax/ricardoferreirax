@@ -210,6 +210,160 @@ I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **al
 
 <div align="center">
 
+<h2>42 Common Core Projects</h2>
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://github.com/ricardoferreirax/libft">
+<img src="assets/projects/libft.png" width="220">
+</a><br>
+<b>Libft</b><br>
+<sub>Custom C Standard Library</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/ricardoferreirax/ft_printf">
+<img src="assets/projects/ft_printf.png" width="220">
+</a><br>
+<b>ft_printf</b><br>
+<sub>Formatted Output</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/ricardoferreirax/get_next_line">
+<img src="assets/projects/get_next_line.png" width="220">
+</a><br>
+<b>get_next_line</b><br>
+<sub>File Reading</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/ricardoferreirax/born2beroot">
+<img src="assets/projects/born2beroot.png" width="220">
+</a><br>
+<b>Born2beroot</b><br>
+<sub>System Administration</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/push_swap">
+<img src="assets/projects/push_swap.png" width="220">
+</a><br>
+<b>Push_swap</b><br>
+<sub>Sorting Algorithms</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/pipex">
+<img src="assets/projects/pipex.png" width="220">
+</a><br>
+<b>Pipex</b><br>
+<sub>Pipes & Processes</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/fract-ol">
+<img src="assets/projects/fract-ol.png" width="220">
+</a><br>
+<b>Fract-ol</b><br>
+<sub>Fractal Rendering</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/philosophers">
+<img src="assets/projects/philosophers.png" width="220">
+</a><br>
+<b>Philosophers</b><br>
+<sub>Threads & Mutexes</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/minishell">
+<img src="assets/projects/minishell.png" width="220">
+</a><br>
+<b>Minishell</b><br>
+<sub>Unix Shell</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/cub3d">
+<img src="assets/projects/cub3d.png" width="220">
+</a><br>
+<b>cub3D</b><br>
+<sub>Raycasting Engine</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/netpractice">
+<img src="assets/projects/netpractice.png" width="220">
+</a><br>
+<b>NetPractice</b><br>
+<sub>Networking</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/cpp-modules-00-04">
+<img src="assets/projects/cpp00-04.png" width="220">
+</a><br>
+<b>CPP Modules 00–04</b><br>
+<sub>OOP Fundamentals</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/inception">
+<img src="assets/projects/inception.png" width="220">
+</a><br>
+<b>Inception</b><br>
+<sub>Docker Infrastructure</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/cpp-modules-05-09">
+<img src="assets/projects/cpp05-09.png" width="220">
+</a><br>
+<b>CPP Modules 05–09</b><br>
+<sub>Advanced C++</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/ft_irc">
+<img src="assets/projects/ft_irc.png" width="220">
+</a><br>
+<b>ft_irc</b><br>
+<sub>IRC Server</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/ricardoferreirax/ft_transcendence">
+<img src="assets/projects/ft_transcendence.png" width="220">
+</a><br>
+<b>ft_transcendence</b><br>
+<sub>Full-Stack Web Application</sub>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<div align="center">
+
 <h2>📈 Contribution Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
