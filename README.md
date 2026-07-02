@@ -63,7 +63,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <tr>
 <td align="left"><b>📚 Learning</b></td>
-<td align="left">Containers • Java • MySQL • Python</td>
+<td align="left">Containers • Java • SQL • Python</td>
 </tr>
 
 <tr>
@@ -215,8 +215,8 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 | <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML5** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS3** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=js" width="24"> | **JavaScript** | ⭐⭐⭐⭐☆ |
-| <img src="https://skillicons.dev/icons?i=ts" width="24"> | **TypeScript** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=react" width="24"> | **React** | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
 </td>
 
