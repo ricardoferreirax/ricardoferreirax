@@ -13,23 +13,35 @@
 ---
 
 <div align="center">
+
 <h2>👨‍💻 About Me</h2>
-</div>
+
+<table width="900">
+
+<tr>
+<td align="left">
 
 I'm a **Software Developer** currently studying at **42 Lisboa**.
 
 Passionate about **Science**, especially **Mathematics**, **Physics**, and **Chemistry**, I enjoy solving complex problems through technology and continuous learning.
 
-My main interests include **C**, **C++**, **Python**, **Web Development**, **UNIX systems**, **Docker**, **Algorithms**, and **CyberSecurity**.
+My main interests include **C**, **C++**, **Python**, **Web Development**, **UNIX systems**, **Docker**, **Algorithms**, and **Cybersecurity**.
 
----
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td height="20"></td>
+</tr>
 
-<table>
 <tr>
 
-<td align="center" width="50%">
+<td>
+
+<table width="100%">
+<tr>
+
+<td align="center" width="50%" valign="top">
 
 <h3>🧠 Profile</h3>
 
@@ -40,7 +52,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>🎓 Programming</b></td>
+<td align="left"><b>💻 Programming</b></td>
 <td align="left">42 Lisboa</td>
 </tr>
 
@@ -50,8 +62,8 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>📖 Currently Learning</b></td>
-<td align="left">C++ • Containers • Databases</td>
+<td align="left"><b>📚 Learning</b></td>
+<td align="left">Containers • Networks • AI</td>
 </tr>
 
 <tr>
@@ -63,15 +75,19 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <td align="left"><b>🌍 Languages</b></td>
 <td align="left">Portuguese • English • Spanish</td>
 </tr>
+
 </table>
 
 </td>
 
-<td align="center" width="50%">
+<td width="30"></td>
+
+<td align="center" width="50%" valign="top">
 
 <h3>🎮 Personal</h3>
 
 <table>
+
 <tr>
 <td align="left"><b>🎮 Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming</td>
@@ -98,9 +114,10 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>📍 Localization</b></td>
+<td align="left"><b>📍 Location</b></td>
 <td align="left">Almada, Portugal</td>
 </tr>
+
 </table>
 
 </td>
@@ -108,9 +125,15 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 </table>
 
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---
+
 <div align="center">
 
 <h2>🎓 42 Lisboa Journey</h2>
