@@ -161,38 +161,55 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-<h2>🛠️ Skills</h2>
+## 🛠️ Tech Stack
 
 <table>
+
+<tr>
+<th align="center">💻 Programming Languages</th>
+<th align="center">🌐 Frontend</th>
+<th align="center">🛠️ DevOps & Tools</th>
+</tr>
+
 <tr>
 
-<td align="center" width="25%">
-<h3>💻 Languages</h3>
+<td valign="top">
 
-<img height="48" src="https://skillicons.dev/icons?i=c,cpp,python&perline=3"/>
+| Icon | Technology | Level |
+|:---:|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=c" width="24"> | **C** | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=python" width="24"> | **Python** | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=java" width="24"> | **Java** | ⭐☆☆☆☆ |
 
-<b>C</b> • <b>C++</b> • <b>Python</b>
 </td>
 
-<td align="center" width="25%">
-<h3>🌐 Frontend</h3>
+<td valign="top">
 
-<img height="48" src="https://skillicons.dev/icons?i=html,css,js,react&perline=4"/>
+| Icon | Technology | Level |
+|:---:|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML5** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS3** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=js" width="24"> | **JavaScript** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=ts" width="24"> | **TypeScript** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=react" width="24"> | **React** | ⭐⭐⭐☆☆ |
 
-
-<b>HTML5</b> • <b>CSS3</b> • <b>JS</b> • <b>React</b>
 </td>
 
-<td align="center" width="25%">
-<h3>🛠️ DevOps & Tools</h3>
+<td valign="top">
 
-<img height="48" src="https://skillicons.dev/icons?i=docker,git,bash,linux&perline=5"/>
+| Icon | Technology | Level |
+|:---:|:---|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="24"> | **Docker** | ⭐⭐☆☆☆ |
+| <img src="https://skillicons.dev/icons?i=git" width="24"> | **Git** | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=github" width="24"> | **GitHub** | ⭐⭐⭐⭐⭐ |
+| <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐☆☆ |
+| <img src="https://skillicons.dev/icons?i=linux" width="24"> | **Linux** | ⭐⭐⭐⭐☆ |
 
-
-<b>Docker</b> • <b>Git</b> • <b>Bash</b> • <b>Linux</b>
 </td>
 
 </tr>
+
 </table>
 
 </div>
