@@ -204,6 +204,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=python" width="24"> | **Python** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=java" width="24"> | **Java** | ⭐☆☆☆☆ |
+| <img src="https://skillicons.dev/icons?i=mysql" width="24"> | **SQL / MySQL** | ⭐☆☆☆☆ |
 
 </td>
 
