@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=220&section=header&text=Developer%20Portfolio&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Ricardo%20Medeiros%20•%2042%20Lisboa&descAlignY=58&descSize=19"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=190&section=header&text=Developer%20Portfolio&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=6000&pause=2800&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+:)&color=FF2D2D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=6000&pause=3400&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+:)&color=FF2D2D"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=6500&pause=2200&center=true&vCenter=true&width=950&lines=I'm+A+Software+Developer+At+42+Lisboa;Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:)&color=00AEEF"/>
 
