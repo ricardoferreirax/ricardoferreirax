@@ -16,13 +16,12 @@
 <h2>👨‍💻 About Me</h2>
 </div>
 
-I’m a **Biomedical Engineer** and a **Software Developer** currently studying at **42 Lisboa**.
+I'm a **Software Developer** currently studying at **42 Lisboa**.
 
-My curiosity and background gave me a strong mindset, combining **mathematics**, **biology**, **logic**, and **problem-solving**.
+Passionate about **Science**, especially **Mathematics**, **Physics**, and **Chemistry**, I enjoy solving complex problems through technology and continuous learning.
 
-At 42 Lisboa, I’ve been building a solid knowledge in software development through project-based learning, peer evaluation, and constant practical challenges.
+My main interests include **C**, **C++**, **Python**, **Web Development**, **UNIX systems**, **Docker**, **Algorithms**, and **CyberSecurity**.
 
-I mainly work with **C**, **C++**, **UNIX systems**, **Linux**, **Docker**, **algorithms**, **memory management**, and **low-level programming**, while also exploring higher-level development.
 
 ---
 
