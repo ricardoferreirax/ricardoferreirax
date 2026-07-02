@@ -22,12 +22,9 @@ Passionate about **Science**, especially **Mathematics**, **Physics**, and **Che
 
 My main interests include **C**, **C++**, **Python**, **Web Development**, **UNIX systems**, **Docker**, **Algorithms**, and **CyberSecurity**.
 
-
 ---
 
 <div align="center">
-
-<h2>⚡ Quick Facts</h2>
 
 <table>
 <tr>
