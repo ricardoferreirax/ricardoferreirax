@@ -58,12 +58,12 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <tr>
 <td align="left"><b>⚙️ Focusing</b></td>
-<td align="left">C++ • Frontend • Python • Docker</td>
+<td align="left"> Frontend • C++ • Python • Docker</td>
 </tr>
 
 <tr>
 <td align="left"><b>📚 Learning</b></td>
-<td align="left">Containers • Networks • AI</td>
+<td align="left">Containers • Java • MySQL • Python</td>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <tr>
 <td align="left"><b>🎮 Hobbies</b></td>
-<td align="left">Anime • Manga • Gaming</td>
+<td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
 
 <tr>
@@ -99,7 +99,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>🎵 Music</b></td>
+<td align="left"><b>🎵 Favourite Band</b></td>
 <td align="left">Queen</td>
 </tr>
 
@@ -184,7 +184,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <table>
 
