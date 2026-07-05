@@ -239,7 +239,6 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </div>
 
 ---
-
 <div align="center">
 
 <h2>42 Common Core Projects</h2>
@@ -253,6 +252,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/libft.png" width="220">
 </a><br>
 <b>Libft</b><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Custom C Standard Library</sub>
 </td>
 
@@ -261,6 +261,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/printf.png" width="220">
 </a><br>
 <b>ft_printf</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Formatted Output</sub>
 </td>
 
@@ -269,6 +270,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/get_next_line.png" width="220">
 </a><br>
 <b>get_next_line</b><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>File Reading</sub>
 </td>
 
@@ -277,6 +279,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/born2beroot.png" width="220">
 </a><br>
 <b>Born2beroot</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F125-brightgreen?style=for-the-badge"><br>
 <sub>System Administration</sub>
 </td>
 
@@ -286,9 +289,10 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PUSH_SWAP">
-<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/push_swap.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferirax/ricardoferirax/main/push_swap.png" width="220">
 </a><br>
 <b>Push_swap</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Sorting Algorithms</sub>
 </td>
 
@@ -297,6 +301,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/pipex.png" width="220">
 </a><br>
 <b>Pipex</b><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Pipes & Processes</sub>
 </td>
 
@@ -305,6 +310,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/fract-ol.png" width="220">
 </a><br>
 <b>Fract-ol</b><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Fractal Rendering</sub>
 </td>
 
@@ -313,6 +319,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/philosophers.png" width="220">
 </a><br>
 <b>Philosophers</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Threads & Mutexes</sub>
 </td>
 
@@ -325,6 +332,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/minishell.png" width="220">
 </a><br>
 <b>Minishell</b><br>
+<img src="https://img.shields.io/badge/42_Grade-101%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Unix Shell</sub>
 </td>
 
@@ -333,6 +341,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cub3d.png" width="220">
 </a><br>
 <b>cub3D</b><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Raycasting Engine</sub>
 </td>
 
@@ -341,6 +350,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/netpractice.png" width="220">
 </a><br>
 <b>NetPractice</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F100-brightgreen?style=for-the-badge"><br>
 <sub>Networking</sub>
 </td>
 
@@ -349,6 +359,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cpp00-04.png" width="220">
 </a><br>
 <b>CPP Modules 00–04</b><br>
+<img src="https://img.shields.io/badge/42_Grade-100%2F100-brightgreen?style=for-the-badge"><br>
 <sub>OOP Fundamentals</sub>
 </td>
 
@@ -361,6 +372,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/inception.png" width="220">
 </a><br>
 <b>Inception</b><br>
+<img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>Docker Infrastructure</sub>
 </td>
 
@@ -369,6 +381,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cpp05-09.png" width="220">
 </a><br>
 <b>CPP Modules 05–09</b><br>
+<img src="https://img.shields.io/badge/42_Grade---%2F100-lightgrey?style=for-the-badge"><br>
 <sub>Advanced C++</sub>
 </td>
 
@@ -377,6 +390,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_irc.png" width="220">
 </a><br>
 <b>ft_irc</b><br>
+<img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>IRC Server</sub>
 </td>
 
@@ -385,6 +399,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_transcendence.png" width="220">
 </a><br>
 <b>ft_transcendence</b><br>
+<img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>Full-Stack Web Application</sub>
 </td>
 
