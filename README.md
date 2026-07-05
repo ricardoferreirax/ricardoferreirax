@@ -289,7 +289,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PUSH_SWAP">
-<img src="https://raw.githubusercontent.com/ricardoferirax/ricardoferirax/main/push_swap.png" width="220">
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/push_swap.png" width="220">
 </a><br>
 <b>Push_swap</b><br>
 <img src="https://img.shields.io/badge/42_Grade-100%2F125-brightgreen?style=for-the-badge"><br>
