@@ -99,12 +99,12 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>🎵 Band</b></td>
+<td align="left"><b>🎵 Favourite Band</b></td>
 <td align="left">Queen</td>
 </tr>
 
 <tr>
-<td align="left"><b>🔬 Fields</b></td>
+<td align="left"><b>🔬 Favourite Fields</b></td>
 <td align="left">Math • Biology • Physics • Tech</td>
 </tr>
 
@@ -141,7 +141,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 <table>
 
 <tr>
-<th align="center">💻 Programming Languages</th>
+<th align="center">💻 Languages</th>
 <th align="center">🌐 Frontend</th>
 <th align="center">🛠️ DevOps & Tools</th>
 </tr>
