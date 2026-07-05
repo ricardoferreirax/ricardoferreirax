@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=4200&center=true&vCenter=true&width=950&lines=I'm+A+Software+Developer+At+42+Lisboa;Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:)&color=00AEEF"/>
 
-<img src="gif1.gif" alt="Banner" width="560"/>
+<img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
 </div>
 
