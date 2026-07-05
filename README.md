@@ -99,12 +99,12 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </tr>
 
 <tr>
-<td align="left"><b>🎵 Favourite Band</b></td>
+<td align="left"><b>🎵 Band</b></td>
 <td align="left">Queen</td>
 </tr>
 
 <tr>
-<td align="left"><b>🔬 Favourite Fields</b></td>
+<td align="left"><b>🔬 Fields</b></td>
 <td align="left">Math • Biology • Physics • Tech</td>
 </tr>
 
@@ -156,7 +156,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=python" width="24"> | **Python** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=java" width="24"> | **Java** | ⭐☆☆☆☆ |
-| <img src="https://skillicons.dev/icons?i=mysql" width="24"> | **SQL / MySQL** | ⭐☆☆☆☆ |
+| <img src="https://skillicons.dev/icons?i=mysql" width="24"> | **SQL** | ⭐☆☆☆☆ |
 
 </td>
 
