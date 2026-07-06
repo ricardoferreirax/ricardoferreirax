@@ -10,7 +10,7 @@
 
 </div>
 
----
+<p></p>
 
 <div align="center">
 
@@ -20,14 +20,18 @@
 
 <tr>
 <td align="left">
-    
-I'm a **Software Developer** driven by curiosity, analytical thinking, problem-solving, and attetion to detail.
 
-Currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
+<p></p>
 
-In 42 Lisboa, I continuously improve my knowledge in **Software Engineering**, **Web Development**, and **Algorithms**.
+I'm a **Software Developer** who enjoys solving challenging problems, constantly learning new things, and making an impact.
 
-I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chemistry**, disciplines that shape the way I approach complex challenges.
+I'm studying at **42 Lisboa**, where I improve my skills by working on real projects and collaborating with my colleagues through a peer-to-peer approach.
+
+I'm always exploring **Software Engineering**, **Web Development** and **new technologies** that help me grow as a developer.
+
+I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, which inspire the way I think and approach complex problems.
+
+<p></p>
 
 </td>
 </tr>
@@ -107,7 +111,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 <tr>
 <td align="left"><b>🔬 Favourite Fields</b></td>
-<td align="left">Math • Biology • Physics • Tech</td>
+<td align="left">Maths • Biology • Physics • Tech</td>
 </tr>
 
 <tr>
@@ -134,7 +138,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 </div>
 
----
+<p></p>
 
 <div align="center">
 
@@ -192,7 +196,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 </div>
 
----
+<p></p>
 
 <div align="center">
 
@@ -240,7 +244,8 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 </div>
 
----
+<p></p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Common%20Core%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
@@ -419,7 +424,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 </div>
 
----
+<p></p>
 
 <div align="center">
 
@@ -441,4 +446,4 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 </div>
 
----
+<p></p>
