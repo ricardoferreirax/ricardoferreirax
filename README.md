@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
 <table width="900">
 
@@ -136,9 +136,9 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-## 🛠️ Skills
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Skills&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
-<table>
+<table width="900">
 
 <tr>
 <th align="center">💻 Languages</th>
@@ -194,9 +194,9 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-<h2>🎓 42 Lisboa Journey</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=42%20Journey&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
-<table>
+<table width="900">
 <tr>
 
 <td align="center" width="58%">
@@ -241,9 +241,9 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 ---
 <div align="center">
 
-<h2>42 Common Core Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Common%20Core%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
-<table>
+<table width="900">
 
 <tr>
 
@@ -411,7 +411,7 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-<h2>📈 Contribution Graph</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
 
@@ -421,7 +421,9 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 
 <div align="center">
 
-<h2>📫 Contact</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
+
+<table width="900">
 
 <a href="mailto:ricardomedeirosx@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -434,9 +436,3 @@ My main interests include **C**, **C++**, **Python**, **Web Development**, **UNI
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=111111,ff2d2d&height=120&section=footer"/>
-
-</div>
