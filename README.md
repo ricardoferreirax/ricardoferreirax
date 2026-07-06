@@ -422,7 +422,11 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=ricardoferreirax&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
