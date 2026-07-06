@@ -20,14 +20,14 @@
 
 <tr>
 <td align="left">
+    
+I'm a **Software Developer** driven by curiosity, analytical thinking, problem-solving, and attetion to detail.
 
-I'm a **Software Developer**, currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
+Currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
 
-My academic background has strengthened my analytical thinking, problem-solving skills, and attention to detail.
+In 42 Lisboa, I continuously improve my knowledge in **Software Engineering**, **Web Development**, and **Algorithms**.
 
-My interests span **Algorithms**, **Web Development**, **Docker**, **Cybersecurity**, and **Artificial Intelligence**. 
-
-Beyond software engineering, I have a strong passion for **Mathematics**, **Physics**, and **Chemistry**, disciplines that continue to shape the way I approach complex technical challenges.
+I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chemistry**, disciplines that shape the way I approach complex challenges.
 
 </td>
 </tr>
@@ -413,7 +413,7 @@ Beyond software engineering, I have a strong passion for **Mathematics**, **Phys
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Contribution%20Graphic&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardoferreirax&bg_color=00000000&color=ff2d2d&line=ff2d2d&point=ffffff&hide_border=true"/>
 
