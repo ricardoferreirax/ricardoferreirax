@@ -152,7 +152,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 <td valign="top">
 
-| Icon | Technology | Level |
+| I | Technology | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=c" width="24"> | **C** | ⭐⭐⭐⭐⭐ |
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
@@ -164,7 +164,7 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 <td valign="top">
 
-| Icon | Technology | Level |
+| I | Technology | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML5** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS3** | ⭐⭐⭐⭐☆ |
@@ -176,11 +176,11 @@ I have a strong passion for **Mathematics**, **Biology**, **Physics** and **Chem
 
 <td valign="top">
 
-| Icon | Technology | Level |
+| I | Technology | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=docker" width="24"> | **Docker** | ⭐⭐☆☆☆ |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="24"> | **Kubernetes** | ⭐☆☆☆☆ |
 | <img src="https://skillicons.dev/icons?i=git" width="24"> | **Git** | ⭐⭐⭐⭐⭐ |
-| <img src="https://skillicons.dev/icons?i=github" width="24"> | **GitHub** | ⭐⭐⭐⭐⭐ |
 | <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=linux" width="24"> | **Linux** | ⭐⭐⭐⭐☆ |
 
