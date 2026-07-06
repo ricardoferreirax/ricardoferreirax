@@ -160,7 +160,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td valign="top">
 
-| I | Technology | Level |
+| I | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=c" width="24"> | **C** | ⭐⭐⭐⭐⭐ |
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
@@ -172,7 +172,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td valign="top">
 
-| I | Technology | Level |
+| I | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML5** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS3** | ⭐⭐⭐⭐☆ |
@@ -184,7 +184,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td valign="top">
 
-| I | Technology | Level |
+| I | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=docker" width="24"> | **Docker** | ⭐⭐☆☆☆ |
 | <img src="https://skillicons.dev/icons?i=kubernetes" width="24"> | **Kubernetes** | ⭐☆☆☆☆ |
