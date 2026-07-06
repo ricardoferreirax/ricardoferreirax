@@ -21,11 +21,13 @@
 <tr>
 <td align="left">
 
-I'm a **Software Developer** currently studying at **42 Lisboa**.
+I'm a **Software Developer** and **Biomedical Engineer**, currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
 
-Passionate about **Science**, especially **Mathematics**, **Physics**, and **Chemistry**, I enjoy solving complex problems through technology and continuous learning.
+My academic background has strengthened my analytical thinking, problem-solving skills, and attention to detail.
 
-My main interests include **C**, **C++**, **Python**, **Web Development**, **UNIX systems**, **Docker**, **Algorithms**, and **Cybersecurity**.
+My interests span **Algorithms**, **Web Development**, **Docker**, **Cybersecurity**, and **Artificial Intelligence**. 
+
+Beyond software engineering, I have a strong passion for **Mathematics**, **Physics**, and **Chemistry**, disciplines that continue to shape the way I approach complex technical challenges.
 
 </td>
 </tr>
