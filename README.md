@@ -11,6 +11,9 @@
 </div>
 
 <p></p>
+<b></b>
+<p></p>
+<b></b>
 
 <div align="center">
 
@@ -22,6 +25,7 @@
 <td align="left">
 
 <p></p>
+<b></b>
 
 I'm a **Software Developer** who enjoys solving challenging problems, constantly learning new things, and making an impact.
 
@@ -32,6 +36,7 @@ I'm always exploring **Software Engineering**, **Web Development** and **new tec
 I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, which inspire the way I think and approach complex problems.
 
 <p></p>
+<b></b>
 
 </td>
 </tr>
@@ -139,6 +144,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </div>
 
 <p></p>
+<b></b>
 
 <div align="center">
 
@@ -197,6 +203,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </div>
 
 <p></p>
+<b></b>
 
 <div align="center">
 
@@ -245,6 +252,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </div>
 
 <p></p>
+<b></b>
 
 <div align="center">
 
@@ -424,13 +432,8 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
 <p></p>
+<b></b>
 
 <div align="center">
 
@@ -457,3 +460,4 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </div>
 
 <p></p>
+<b></b>
