@@ -21,7 +21,7 @@
 <tr>
 <td align="left">
 
-I'm a **Software Developer** and **Biomedical Engineer**, currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
+I'm a **Software Developer**, currently studying at **42 Lisboa**, where I develop software through a project-based, peer-to-peer learning approach.
 
 My academic background has strengthened my analytical thinking, problem-solving skills, and attention to detail.
 
@@ -423,16 +423,20 @@ Beyond software engineering, I have a strong passion for **Mathematics**, **Phys
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
-
-<table width="900">
-
 <a href="mailto:ricardomedeirosx@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img height="42" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ricardo-m-140636134/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img height="42" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://profile.intra.42.fr/users/rmedeiro">
+<img height="42" src="https://img.shields.io/badge/42_Intra-000000?style=for-the-badge&logo=42&logoColor=white"/>
 </a>
 
 </div>
