@@ -431,31 +431,3 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </div>
 
 <p></p>
-<b></b>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Contacts&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
-
-<br>
-
-<a href="mailto:ricardomedeirosx@gmail.com">
-<img height="48" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ricardo-m-140636134/">
-<img height="48" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://profile.intra.42.fr/users/rmedeiro">
-<img height="48" src="https://img.shields.io/badge/42_Intra-000000?style=for-the-badge&logo=42&logoColor=white"/>
-</a>
-
-</div>
-
-<p></p>
-<b></b>
