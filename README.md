@@ -58,32 +58,32 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <table>
 <tr>
-<td align="left"><b>🎓 Background</b></td>
+<td align="left"><b> Background</b></td>
 <td align="left">Biomedical Engineering</td>
 </tr>
 
 <tr>
-<td align="left"><b>💻 Programming</b></td>
+<td align="left"><b> Programming</b></td>
 <td align="left">42 Lisboa</td>
 </tr>
 
 <tr>
-<td align="left"><b>⚙️ Focusing</b></td>
+<td align="left"><b> Focusing</b></td>
 <td align="left"> Frontend • C++ • Python • Docker</td>
 </tr>
 
 <tr>
-<td align="left"><b>📚 Learning</b></td>
+<td align="left"><b> Learning</b></td>
 <td align="left">Containers • Java • SQL • Python</td>
 </tr>
 
 <tr>
-<td align="left"><b>🚀 Interests</b></td>
+<td align="left"><b> Interests</b></td>
 <td align="left">Web Dev • Cybersecurity • AI</td>
 </tr>
 
 <tr>
-<td align="left"><b>🌍 Languages</b></td>
+<td align="left"><b> Languages</b></td>
 <td align="left">Portuguese • English • Spanish</td>
 </tr>
 
@@ -100,32 +100,32 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <table>
 
 <tr>
-<td align="left"><b>🎮 Hobbies</b></td>
+<td align="left"><b> Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
 
 <tr>
-<td align="left"><b>⚽ Football</b></td>
+<td align="left"><b> Football</b></td>
 <td align="left">SL Benfica</td>
 </tr>
 
 <tr>
-<td align="left"><b>🎵 Favourite Band</b></td>
+<td align="left"><b> Favourite Band</b></td>
 <td align="left">Queen</td>
 </tr>
 
 <tr>
-<td align="left"><b>🔬 Favourite Fields</b></td>
+<td align="left"><b> Favourite Fields</b></td>
 <td align="left">Maths • Biology • Physics • Tech</td>
 </tr>
 
 <tr>
-<td align="left"><b>☕ Mindset</b></td>
+<td align="left"><b> Mindset</b></td>
 <td align="left">Curiosity • Learn by Doing</td>
 </tr>
 
 <tr>
-<td align="left"><b>📍 Location</b></td>
+<td align="left"><b> Location</b></td>
 <td align="left">Almada, Portugal</td>
 </tr>
 
