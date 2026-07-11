@@ -53,7 +53,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td align="center" width="50%" valign="top">
 
-<h3>🧠 Profile</h3>
+<h3>Profile</h3>
 
 
 <table>
@@ -91,11 +91,11 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </td>
 
-<td width="30"></td>
+<td width="20"></td>
 
 <td align="center" width="50%" valign="top">
 
-<h3>🎮 Personal</h3>
+<h3>Personal</h3>
 
 <table>
 
