@@ -51,7 +51,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <table width="100%">
 <tr>
 
-<td align="center" width="50%" valign="bottom">
+<td align="center" width="50%" valign="top">
 
 <h3>Profile</h3>
 
