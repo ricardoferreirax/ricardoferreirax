@@ -41,7 +41,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </tr>
 
 <tr>
-<td height="20"></td>
+<td height="30"></td>
 </tr>
 
 <tr>
@@ -51,7 +51,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <table width="100%">
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="center" width="40%" valign="top">
 
 <h3>Profile</h3>
 
