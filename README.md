@@ -238,7 +238,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <div><img src="https://img.shields.io/badge/✅_Projects_Completed-16_of_24-16A34A?style=for-the-badge"></div>
 
-<div><img src="https://img.shields.io/badge/📝_Exams_Completed-4_of_6-0284C7?style=for-the-badge"></div>
+<div><img src="https://img.shields.io/badge/📝_Exams_Completed-5_of_6-0284C7?style=for-the-badge"></div>
 
 <div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
