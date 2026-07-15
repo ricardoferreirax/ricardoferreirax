@@ -28,6 +28,7 @@
 <p></p>
 <b></b>
 
+
 I'm a **Software Developer** who enjoys solving challenging problems, constantly learning new things, and making an impact.
 
 I'm studying at **42 Lisboa**, where I improve my skills by working on real projects and collaborating with my colleagues through a peer-to-peer approach.
