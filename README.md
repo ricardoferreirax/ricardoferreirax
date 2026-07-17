@@ -226,6 +226,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td align="left" width="42%">
 
+
 <div><img src="https://img.shields.io/badge/🏫_42 Campus-42_Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"></div>
 
 <div><img src="https://img.shields.io/badge/👤_My Login-rmedeiro-2563EB?style=for-the-badge&logo=github"></div>
