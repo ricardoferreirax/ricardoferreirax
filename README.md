@@ -181,7 +181,6 @@ Ll
 | <img src="https://skillicons.dev/icons?i=react" width="24"> | **React** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
-
 </td>
 
 <td valign="top">
