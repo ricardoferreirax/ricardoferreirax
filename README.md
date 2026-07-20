@@ -31,7 +31,6 @@ I'm studying at **42 Lisboa**, where I improve my skills by working on real proj
 
 I'm always exploring **Software Engineering**, **Web Development** and **new technologies** that help me grow as a developer.
 
-
 I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, which inspire the way I think and approach complex problems.
 
 <p></p>
