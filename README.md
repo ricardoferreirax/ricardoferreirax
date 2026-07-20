@@ -60,7 +60,6 @@ Ll
 <td align="left">Biomedical Engineering</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Programming</b></td>
 <td align="left">42 Lisboa</td>
@@ -241,7 +240,6 @@ Ll
 
 <div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
-
 <div><img src="https://img.shields.io/badge/🎯_Focus-Docker_•_C++_•_Frontend-475569?style=for-the-badge"></div>
 
 </td>
@@ -270,7 +268,6 @@ Ll
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Custom C Standard Library</sub>
 </td>
-
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/FT_PRINTF">
