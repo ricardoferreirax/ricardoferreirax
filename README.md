@@ -232,7 +232,6 @@ Ll
 
 <div><img src="https://img.shields.io/badge/🚀_Kick--Off Year-April_2025-059669?style=for-the-badge"></div>
 
-
 <div><img src="https://img.shields.io/badge/📈_Current_Rank-Milestone_5-DC2626?style=for-the-badge"></div>
 
 <div><img src="https://img.shields.io/badge/✅_Projects_Completed-16_of_24-16A34A?style=for-the-badge"></div>
