@@ -8,8 +8,6 @@
 
 <img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
-
-
 </div>
 
 <b></b>
@@ -32,6 +30,7 @@ I'm a **Software Developer** who enjoys solving challenging problems, constantly
 I'm studying at **42 Lisboa**, where I improve my skills by working on real projects and collaborating with my colleagues through a peer-to-peer approach.
 
 I'm always exploring **Software Engineering**, **Web Development** and **new technologies** that help me grow as a developer.
+
 
 I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, which inspire the way I think and approach complex problems.
 
