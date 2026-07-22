@@ -9,6 +9,7 @@
 <img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
 
+
 </div>
 
 <b></b>
