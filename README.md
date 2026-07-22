@@ -187,7 +187,6 @@ Ll
 | Icon | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=docker" width="24"> | **Docker** | ⭐⭐☆☆☆ |
-
 | <img src="https://skillicons.dev/icons?i=kubernetes" width="24"> | **Kubernetes** | ⭐☆☆☆☆ |
 | <img src="https://skillicons.dev/icons?i=git" width="24"> | **Git** | ⭐⭐⭐⭐⭐ |
 | <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐☆☆ |
