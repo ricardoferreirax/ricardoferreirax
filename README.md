@@ -102,8 +102,7 @@ Ll
 <td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
 
-<tr>
-    
+<tr>    
 <td align="left"><b> Football</b></td>
 <td align="left">SL Benfica</td>
 </tr>
@@ -113,8 +112,7 @@ Ll
 <td align="left">Queen</td>
 </tr>
 
-<tr>
-   
+<tr>   
 <td align="left"><b> Favourite Fields</b></td>
 <td align="left">Maths • Biology • Physics • Tech</td>
 </tr>
@@ -183,6 +181,7 @@ Ll
 | <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
 </td>
+
 
 <td valign="top">
 
