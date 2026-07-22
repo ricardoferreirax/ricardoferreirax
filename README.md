@@ -328,6 +328,7 @@ Ll
 <sub>Fractal Rendering</sub>
 </td>
 
+
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PHILOSOPHERS">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/philosophers.png" width="220">
