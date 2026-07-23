@@ -8,7 +8,6 @@
 
 <img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
-
 </div>
 
 <b></b>
@@ -60,6 +59,7 @@ Ll
 <td align="left"><b> Background</b></td>
 <td align="left">Biomedical Engineering</td>
 </tr>
+
 
 <tr>
 <td align="left"><b> Programming</b></td>
