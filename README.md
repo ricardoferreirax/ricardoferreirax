@@ -60,7 +60,6 @@ Ll
 <td align="left">Biomedical Engineering</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Programming</b></td>
 <td align="left">42 Lisboa</td>
@@ -102,6 +101,7 @@ Ll
 <td align="left"><b> Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
+
 
 <tr>    
 <td align="left"><b> Football</b></td>
