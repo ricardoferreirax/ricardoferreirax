@@ -241,7 +241,6 @@ Ll
 
 <div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
-
 <div><img src="https://img.shields.io/badge/🎯_Focus-Docker_•_C++_•_Frontend-475569?style=for-the-badge"></div>
 
 </td>
@@ -321,7 +320,6 @@ Ll
 <sub>Pipes & Processes</sub>
 </td>
 
-
 <td align="center">
 <a href="https://github.com/ricardoferreirax/FRACT-OL">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/fract-ol.png" width="220">
@@ -330,7 +328,6 @@ Ll
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Fractal Rendering</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PHILOSOPHERS">
