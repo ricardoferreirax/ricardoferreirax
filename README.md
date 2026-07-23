@@ -123,6 +123,7 @@ Ll
 <td align="left">Curiosity • Learn by Doing</td>
 </tr>
 
+
 <tr>
 <td align="left"><b> Location</b></td>
 <td align="left">Almada, Portugal</td>
