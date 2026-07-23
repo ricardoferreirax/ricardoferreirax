@@ -183,7 +183,6 @@ Ll
 
 </td>
 
-
 <td valign="top">
 
 | Icon | Tech | Level |
@@ -319,6 +318,7 @@ Ll
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Pipes & Processes</sub>
 </td>
+
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/FRACT-OL">
