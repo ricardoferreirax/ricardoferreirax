@@ -13,7 +13,6 @@
 <b></b>
 <b></b>
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
@@ -194,6 +193,7 @@ Ll
 | <img src="https://skillicons.dev/icons?i=git" width="24"> | **Git** | ⭐⭐⭐⭐⭐ |
 | <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=linux" width="24"> | **Linux** | ⭐⭐⭐⭐☆ |
+
 
 </td>
 
