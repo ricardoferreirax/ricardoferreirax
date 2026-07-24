@@ -44,7 +44,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </tr>
 
 <tr>
-Ll
+
 <td>
 
 <table width="100%">
