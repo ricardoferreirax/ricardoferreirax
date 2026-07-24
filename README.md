@@ -165,7 +165,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | Icon | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=c" width="24"> | **C** | ⭐⭐⭐⭐⭐ |
-
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=python" width="24"> | **Python** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=java" width="24"> | **Java** | ⭐☆☆☆☆ |
