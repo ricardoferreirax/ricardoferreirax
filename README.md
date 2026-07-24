@@ -81,10 +81,8 @@ Ll
 </tr>
 
 <tr>
-    
 <td align="left"><b> Languages</b></td>
 <td align="left">Portuguese • English • Spanish</td>
-
 </tr>
 
 </table>
