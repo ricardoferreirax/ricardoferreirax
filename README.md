@@ -57,6 +57,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <table>
 <tr>
 <td align="left"><b> Background</b></td>
+    
 <td align="left">Biomedical Engineering</td>
 </tr>
 
