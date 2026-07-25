@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2d2d,100:111111&height=190&section=header&text=Ricardo%20Medeiros%20%7C%20Portfolio&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn"/>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=9400&center=true&vCenter=true&width=900&lines=Hello%2C+World!+I'm+Ricardo+\O/&color=FF2D2D"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=4200&center=true&vCenter=true&width=950&lines=Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:D&color=00AEEF"/>
@@ -10,7 +9,6 @@
 <img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
 </div>
-
 
 <b></b>
 <b></b>
@@ -44,6 +42,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <tr>
 <td height="30"></td>
 </tr>
+
 
 <tr>
 
