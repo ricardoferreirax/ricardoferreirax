@@ -315,6 +315,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Sorting Algorithms</sub>
 </td>
 
+
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PIPEX">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/pipex.png" width="220">
@@ -324,6 +325,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Pipes & Processes</sub>
 </td>
 
+
 <td align="center">
 <a href="https://github.com/ricardoferreirax/FRACT-OL">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/fract-ol.png" width="220">
@@ -332,6 +334,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Fractal Rendering</sub>
 </td>
+
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PHILOSOPHERS">
