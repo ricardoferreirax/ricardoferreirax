@@ -43,7 +43,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td height="30"></td>
 </tr>
 
-
 <tr>
 
 <td>
@@ -123,7 +122,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"><b> Mindset</b></td>
 <td align="left">Curiosity • Learn by Doing</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Location</b></td>
@@ -292,7 +290,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>File Reading</sub>
 </td>
 
-
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/BORN_2_BE_ROOT">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/born2beroot.png" width="220">
@@ -315,7 +312,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Sorting Algorithms</sub>
 </td>
 
-
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PIPEX">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/pipex.png" width="220">
@@ -325,7 +321,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Pipes & Processes</sub>
 </td>
 
-
 <td align="center">
 <a href="https://github.com/ricardoferreirax/FRACT-OL">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/fract-ol.png" width="220">
@@ -334,7 +329,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Fractal Rendering</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PHILOSOPHERS">
