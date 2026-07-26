@@ -43,7 +43,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td height="30"></td>
 </tr>
 
-
 <tr>
 
 <td>
@@ -102,7 +101,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"><b> Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
-
 
 <tr>    
 <td align="left"><b> Football</b></td>
