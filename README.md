@@ -146,6 +146,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <p></p>
 <b></b>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=Skills&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
