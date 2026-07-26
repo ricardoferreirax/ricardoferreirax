@@ -102,7 +102,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Anime • Manga • Gaming • Music</td>
 </tr>
 
-
 <tr>    
 <td align="left"><b> Football</b></td>
 <td align="left">SL Benfica</td>
@@ -393,7 +392,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>Docker Infrastructure</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/CPP_MODULES">
