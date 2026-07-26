@@ -342,8 +342,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </tr>
 
 <tr>
-
-
     
 <td align="center">
 <a href="https://github.com/ricardoferreirax/MINISHELL">
@@ -371,6 +369,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-100%2F100-brightgreen?style=for-the-badge"><br>
 <sub>Networking</sub>
 </td>
+
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/CPP_MODULES">
