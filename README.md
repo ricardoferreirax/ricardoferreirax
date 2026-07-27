@@ -164,6 +164,8 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <tr>
 
+
+
 <td valign="top">
 
 | Icon | Tech | Level |
@@ -176,6 +178,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </td>
 
+
 <td valign="top">
 
 | Icon | Tech | Level |
@@ -187,6 +190,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
 </td>
+
 
 <td valign="top">
 
