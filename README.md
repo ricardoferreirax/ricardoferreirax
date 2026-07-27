@@ -34,6 +34,8 @@ I'm always exploring **Software Engineering**, **Web Development** and **new tec
 
 I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, which inspire the way I think and approach complex problems.
 
+
+
 <p></p>
 <b></b>
 
