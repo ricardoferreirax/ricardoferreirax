@@ -263,7 +263,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <table width="900">
 
-
 <tr>
 
 <td align="center" width="25%">
@@ -372,7 +371,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-100%2F100-brightgreen?style=for-the-badge"><br>
 <sub>Networking</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/CPP_MODULES">
