@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=4200&center=true&vCenter=true&width=950&lines=Welcome+To+My+GitHub+!;Feel+Free+To+See+My+Projects+:D&color=00AEEF"/>
 
-
 <img src="✨Freddie Mercury✨.gif" alt="Banner" width="650"/>
 
 </div>
@@ -88,8 +87,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </table>
 
-
-
 </td>
 
 <td width="20"></td>
@@ -162,8 +159,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <tr>
 
-
-
 <td valign="top">
 
 | Icon | Tech | Level |
@@ -176,7 +171,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </td>
 
-
 <td valign="top">
 
 | Icon | Tech | Level |
@@ -188,7 +182,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
 </td>
-
 
 <td valign="top">
 
