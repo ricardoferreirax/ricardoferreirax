@@ -195,7 +195,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=linux" width="24"> | **Linux** | ⭐⭐⭐⭐☆ |
 
-
 </td>
 
 </tr>
