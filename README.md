@@ -161,7 +161,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td valign="top">
 
-
 | Icon | Tech | Level |
 |:---:|:---|:---:|
 | <img src="https://skillicons.dev/icons?i=c" width="24"> | **C** | ⭐⭐⭐⭐⭐ |
