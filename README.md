@@ -380,7 +380,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 </tr>
 
-
 <tr>
 
 <td align="center">
