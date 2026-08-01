@@ -22,7 +22,6 @@
 <tr>
 <td align="left">
 
-
 <p></p>
 <b></b>
 
@@ -85,7 +84,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"><b> Languages</b></td>
 <td align="left">Portuguese • English • Spanish</td>
 </tr>
-
 
 </table>
 
