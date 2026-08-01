@@ -98,7 +98,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <table>
 
-
 <tr>
 <td align="left"><b> Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming • Music</td>
@@ -244,7 +243,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
 <div><img src="https://img.shields.io/badge/🎯_Focus-Docker_•_C++_•_Frontend-475569?style=for-the-badge"></div>
-
 
 </td>
 
