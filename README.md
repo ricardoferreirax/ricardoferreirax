@@ -98,6 +98,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <table>
 
+
 <tr>
 <td align="left"><b> Hobbies</b></td>
 <td align="left">Anime • Manga • Gaming • Music</td>
