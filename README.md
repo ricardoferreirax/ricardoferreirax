@@ -66,7 +66,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">42 Lisboa</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Focusing</b></td>
 <td align="left"> Frontend • C++ • Python • Docker</td>
@@ -281,7 +280,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Formatted Output</sub>
 </td>
 
-
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/GET_NEXT_LINE">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/get_next_line.png" width="220">
@@ -353,7 +351,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Unix Shell</sub>
 </td>
 
-
 <td align="center">
 <a href="https://github.com/ricardoferreirax/CUB3D">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/cub3d.png" width="220">
@@ -371,7 +368,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-100%2F100-brightgreen?style=for-the-badge"><br>
 <sub>Networking</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/CPP_MODULES">
