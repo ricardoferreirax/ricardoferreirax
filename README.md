@@ -76,6 +76,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Containers • Java • SQL • Python</td>
 </tr>
 
+
 <tr>
 <td align="left"><b> Interests</b></td>
 <td align="left">Web Dev • Cybersecurity • AI</td>
