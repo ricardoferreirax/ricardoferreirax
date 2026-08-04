@@ -113,6 +113,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Queen</td>
 </tr>
 
+
 <tr>   
 <td align="left"><b> Favourite Fields</b></td>
 <td align="left">Maths • Biology • Physics • Tech</td>
