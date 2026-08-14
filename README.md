@@ -79,7 +79,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <tr>
 <td align="left"><b> Interests</b></td>
-    
+   
 <td align="left">Web Dev • Cybersecurity • AI</td>
 </tr>
 
@@ -164,6 +164,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <tr>
 
 <td valign="top">
+
 
 | Icon | Tech | Level |
 |:---:|:---|:---:|
