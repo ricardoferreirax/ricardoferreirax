@@ -410,6 +410,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <a href="https://github.com/ricardoferreirax/ft_irc">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_irc.png" width="220">
 </a><br>
+    
 <b>ft_irc</b><br>
 <img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>IRC Server</sub>
