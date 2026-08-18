@@ -66,7 +66,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">42 Lisboa</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Focusing</b></td>
 <td align="left"> Frontend • C++ • Python • Docker</td>
