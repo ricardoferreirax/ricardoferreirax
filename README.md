@@ -61,7 +61,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Biomedical Engineering</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Programming</b></td>
 <td align="left">42 Lisboa</td>
@@ -77,7 +76,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"><b> Learning</b></td>
 <td align="left">Containers • Java • SQL • Python</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Interests</b></td>
