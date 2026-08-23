@@ -287,6 +287,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Formatted Output</sub>
 </td>
 
+
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/GET_NEXT_LINE">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/get_next_line.png" width="220">
