@@ -72,6 +72,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"> Frontend • C++ • Python • Docker</td>
 </tr>
 
+
 <tr>
 <td align="left"><b> Learning</b></td>
 <td align="left">Containers • Java • SQL • Python</td>
