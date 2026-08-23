@@ -234,17 +234,24 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <div><img src="https://img.shields.io/badge/🏫_42 Campus-42_Lisboa-0A192F?style=for-the-badge&logo=42&logoColor=white"></div>
 
+
 <div><img src="https://img.shields.io/badge/👤_My Login-rmedeiro-2563EB?style=for-the-badge&logo=github"></div>
+
 
 <div><img src="https://img.shields.io/badge/🎯_Pool Year-January_2025-7C3AED?style=for-the-badge"></div>
 
+
 <div><img src="https://img.shields.io/badge/🚀_Kick--Off Year-April_2025-059669?style=for-the-badge"></div>
+
 
 <div><img src="https://img.shields.io/badge/📈_Current_Rank-Milestone_5-DC2626?style=for-the-badge"></div>
 
+
 <div><img src="https://img.shields.io/badge/✅_Projects_Completed-16_of_24-16A34A?style=for-the-badge"></div>
 
+
 <div><img src="https://img.shields.io/badge/📝_Exams_Completed-5_of_6-0284C7?style=for-the-badge"></div>
+
 
 <div><img src="https://img.shields.io/badge/⚡_My_Current_Pace-Pace_18-F59E0B?style=for-the-badge"></div>
 
