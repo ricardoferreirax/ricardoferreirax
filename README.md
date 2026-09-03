@@ -223,6 +223,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <td align="center" width="58%">
 
+
 <a href="https://profile.intra.42.fr/users/rmedeiro">
 <img
     src="https://badge.mediaplus.ma/black/rmedeiro"
