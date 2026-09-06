@@ -89,6 +89,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Web Dev • Cybersecurity • AI</td>
 </tr>
 
+
 <tr>
 <td align="left"><b> Languages</b></td>
 <td align="left">Portuguese • English • Spanish</td>
