@@ -217,9 +217,9 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <a href="https://profile.intra.42.fr/users/rmedeiro">
 <img
-    src="https://badge.mediaplus.ma/black/rmedeiro"
+    src="https://badge.mediaplus.ma/black/rmedeiro?1337Badge=off&UM6P=off"
     alt="rmedeiro's 42 Badge"
-    width="600"
+    width="525"
 />
 </a>
 
