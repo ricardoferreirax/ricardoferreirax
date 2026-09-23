@@ -421,7 +421,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </td>
 
 <td align="center">
-<a href="https://github.com/ricardoferreirax/ft_irc">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_irc.png" width="220">
 </a><br>
 <b>ft_irc</b><br>
@@ -430,7 +429,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 https://github.com/ricardoferreirax/FT_IRC
 <sub>IRC Server</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/ft_transcendence">
