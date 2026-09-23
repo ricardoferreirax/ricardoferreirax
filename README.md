@@ -407,7 +407,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/inception.png" width="220">
 </a><br>
 <b>Inception</b><br>
-<img src="https://img.shields.io/badge/42_Grade125%2F125-lightgrey?style=for-the-badge"><br>
+<img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Docker Infrastructure</sub>
 </td>
 
