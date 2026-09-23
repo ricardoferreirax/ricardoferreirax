@@ -420,10 +420,10 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </td>
 
 <td align="center">
+<a href="https://github.com/ricardoferreirax/FT_IRC">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/ft_irc.png" width="220">
 </a><br>
 <b>ft_irc</b><br>
-<a href="https://github.com/ricardoferreirax/FT_IRC">
 <img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
 <sub>IRC Server</sub>
 </td>
