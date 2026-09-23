@@ -363,7 +363,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <a href="https://github.com/ricardoferreirax/MINISHELL">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/minishell.png" width="220">
 </a><br>
-    
 <b>Minishell</b><br>
 <img src="https://img.shields.io/badge/42_Grade-101%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Unix Shell</sub>
@@ -426,7 +425,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <b>ft_irc</b><br>
 <a href="https://github.com/ricardoferreirax/FT_IRC">
 <img src="https://img.shields.io/badge/42_Grade---%2F125-lightgrey?style=for-the-badge"><br>
-https://github.com/ricardoferreirax/FT_IRC
 <sub>IRC Server</sub>
 </td>
 
