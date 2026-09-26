@@ -57,19 +57,16 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"> Frontend • C++ • Python • Docker</td>
 </tr>
 
-
 <tr>
 <td align="left"><b> Learning</b></td>
 <td align="left">Containers • Java • SQL • Python</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Interests</b></td>
    
 <td align="left">Web Dev • Cybersecurity • AI</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Languages</b></td>
@@ -113,7 +110,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left"><b> Mindset</b></td>
 <td align="left">Curiosity • Learn by Doing</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Location</b></td>
