@@ -22,7 +22,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <p></p>
 <b></b>
 
-
 </td>
 </tr>
 
@@ -42,13 +41,11 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <h3>Profile</h3>
 
 <table>
-
-    
+  
 <tr>
 <td align="left"><b> Background</b></td> 
 <td align="left">Biomedical Engineering</td>
 </tr>
-
 
 <tr>
 <td align="left"><b> Programming</b></td>
