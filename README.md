@@ -26,10 +26,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 </tr>
 
 <tr>
-<td height="30"></td>
-</tr>
-
-<tr>
 
 <td>
 
