@@ -152,7 +152,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | <img src="https://skillicons.dev/icons?i=cpp" width="24"> | **C++** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=python" width="24"> | **Python** | ⭐⭐⭐☆☆ |
 | <img src="https://skillicons.dev/icons?i=java" width="24"> | **Java** | Learning |
-| <img src="https://skillicons.dev/icons?i=mysql" width="24"> | **SQL** | Learning |
 
 </td>
 
@@ -160,11 +159,10 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 | Icon | Tech | Level |
 |:---:|:---|:---:|
-| <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML5** | ⭐⭐⭐⭐☆ |
-| <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS3** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=html" width="24"> | **HTML** | ⭐⭐⭐⭐☆ |
+| <img src="https://skillicons.dev/icons?i=css" width="24"> | **CSS** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=js" width="24"> | **JavaScript** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=react" width="24"> | **React** | ⭐⭐⭐☆☆ |
-| <img src="https://skillicons.dev/icons?i=angular" width="24"> | **Angular** | ⭐⭐☆☆☆ |
 
 </td>
 
@@ -177,7 +175,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 | <img src="https://skillicons.dev/icons?i=linux" width="24"> | **Linux** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=bash" width="24"> | **Bash** | ⭐⭐⭐⭐☆ |
 | <img src="https://skillicons.dev/icons?i=docker" width="24"> | **Docker** | ⭐⭐⭐☆☆ |
-| <img src="https://skillicons.dev/icons?i=kubernetes" width="24"> | **Kubernetes** | Learning |
 
 </td>
 
