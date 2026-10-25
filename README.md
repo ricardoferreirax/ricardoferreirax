@@ -205,7 +205,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Custom C Standard Library</sub>
 </td>
 
-
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/FT_PRINTF">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/printf.png" width="220">
@@ -223,7 +222,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>File Reading</sub>
 </td>
-
 
 <td align="center" width="25%">
 <a href="https://github.com/ricardoferreirax/BORN_2_BE_ROOT">
@@ -247,7 +245,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <sub>Sorting Algorithms</sub>
 </td>
 
-
 <td align="center">
 <a href="https://github.com/ricardoferreirax/PIPEX">
 <img src="https://raw.githubusercontent.com/ricardoferreirax/ricardoferreirax/main/pipex.png" width="220">
@@ -256,7 +253,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <img src="https://img.shields.io/badge/42_Grade-125%2F125-brightgreen?style=for-the-badge"><br>
 <sub>Pipes & Processes</sub>
 </td>
-
 
 <td align="center">
 <a href="https://github.com/ricardoferreirax/FRACT-OL">
