@@ -79,7 +79,6 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 
 <h3>Personal</h3>
 
-
 <table>
 
 <tr>
