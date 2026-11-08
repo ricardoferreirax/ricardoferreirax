@@ -101,6 +101,7 @@ I'm passionate about **Maths**, **Biology**, **Physics**, and **Technology**, wh
 <td align="left">Maths • Biology • Physics • Tech</td>
 </tr>
 
+
 <tr>
 <td align="left"><b> Mindset</b></td>
 <td align="left">Curiosity • Learn by Doing</td>
